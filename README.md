@@ -5,7 +5,7 @@ Developed with Unreal Engine 4
 ---
 ## 1. 스팀회사의 얼불춤 (A Dance of Fire and Ice)의 특징을 반영하여 구현한 시뮬레이션
 [시연 동영상](https://youtu.be/osqCmpbZOio)   
-- <얼불춤 개임 소개>   
+- <얼불춤 게임 소개>   
 얼불춤 (A Dance of Fire and Ice) 이라는 게임은 스팀회사의 리듬게임으로   
 박자에 맞게 키를 누르면 빨간색 공과 파란색 공이 번갈아서 회전의 주체가 됩니다.   
 ![image](https://user-images.githubusercontent.com/92451281/192106199-b8e2749a-a354-4b25-a8d7-3b3549e1ad8e.png)   
