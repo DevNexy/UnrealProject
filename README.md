@@ -6,9 +6,9 @@ Developed with Unreal Engine 4
 [시연 동영상](https://youtu.be/osqCmpbZOio)
 
 ---
-## 1. 롤 캐릭터 오리아나 스킬 구현
+## 2. 롤 캐릭터 오리아나 스킬 구현
 [시연 동영상](https://youtu.be/awBJutd_Jyc)
 
 ---
-## 2. 배그 비슷한 간단한 TPS 게임 구현
+## 3. 배그 비슷한 간단한 TPS 게임 구현
 [시연 동영상](https://youtu.be/J2F54ePCnwE)
