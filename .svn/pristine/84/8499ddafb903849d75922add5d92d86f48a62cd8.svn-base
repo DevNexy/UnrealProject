@@ -1,0 +1,10 @@
+[SubversionSourceControl.SubversionSourceControlSettings]
+Repository="svn://192.168.1.247/VRAD_jwsong"
+UserName=jwsong
+LabelsRoot=
+ExecutableLocation=
+
+[SourceControl.SourceControlSettings]
+Provider=Subversion
+
+

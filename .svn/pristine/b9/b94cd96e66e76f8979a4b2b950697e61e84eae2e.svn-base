@@ -1,0 +1,1668 @@
+﻿Log file open, 09/06/22 19:40:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: first_won
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.154430
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=DevNexy -epicuserid=5796ca4be38c439997aadf15c30971bf -epiclocale=ko -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.09.06-10.40.33:232][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.09.06-10.40.33:232][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.09.06-10.40.33:232][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Engine.ini]
+[2022.09.06-10.40.33:232][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.09.06-10.40.33:232][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Engine.ini]
+[2022.09.06-10.40.33:232][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Engine.ini]
+[2022.09.06-10.40.33:232][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.09.06-10.40.33:232][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.09.06-10.40.33:232][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.09.06-10.40.33:232][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.09.06-10.40.33:232][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.09.06-10.40.33:232][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.09.06-10.40.33:232][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.09.06-10.40.33:232][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.09.06-10.40.33:232][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.09.06-10.40.33:232][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.09.06-10.40.33:232][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.09.06-10.40.33:233][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.09.06-10.40.33:233][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.09.06-10.40.33:233][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.09.06-10.40.33:233][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Engine.ini]
+[2022.09.06-10.40.33:233][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.09.06-10.40.33:233][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.09.06-10.40.33:233][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.09.06-10.40.33:233][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.09.06-10.40.33:233][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.09.06-10.40.33:233][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.09.06-10.40.33:233][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.09.06-10.40.33:233][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.09.06-10.40.33:233][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.09.06-10.40.33:233][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.09.06-10.40.33:233][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.09.06-10.40.33:233][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.09.06-10.40.33:233][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.09.06-10.40.33:233][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Engine.ini]
+[2022.09.06-10.40.33:233][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Engine.ini]
+[2022.09.06-10.40.33:237][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Scalability.ini]
+[2022.09.06-10.40.33:237][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.09.06-10.40.33:237][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.09.06-10.40.33:237][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Scalability.ini]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Scalability.ini]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Scalability.ini]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.09.06-10.40.33:238][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Scalability.ini]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Scalability.ini]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.09.06-10.40.33:239][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Scalability.ini]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Scalability.ini]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.09.06-10.40.33:240][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.09.06-10.40.33:240][  0]LogInit: Selected Device Profile: [Windows]
+[2022.09.06-10.40.33:240][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.09.06-10.40.33:247][  0]LogHAL: Display: Platform has ~ 8 GB [8373960704 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.06-10.40.33:247][  0]LogInit: Going up to parent DeviceProfile []
+[2022.09.06-10.40.33:247][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Scalability.ini]
+[2022.09.06-10.40.33:247][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.09.06-10.40.33:247][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.09.06-10.40.33:247][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Scalability.ini]
+[2022.09.06-10.40.33:247][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.09.06-10.40.33:247][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Scalability.ini]
+[2022.09.06-10.40.33:247][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.09.06-10.40.33:247][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.09.06-10.40.33:247][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.09.06-10.40.33:247][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.09.06-10.40.33:247][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.09.06-10.40.33:247][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.09.06-10.40.33:247][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.09.06-10.40.33:247][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.09.06-10.40.33:247][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.09.06-10.40.33:247][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.09.06-10.40.33:247][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.09.06-10.40.33:247][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.09.06-10.40.33:247][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Scalability.ini]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.09.06-10.40.33:248][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Scalability.ini]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Scalability.ini]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Scalability.ini]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Scalability.ini]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.09.06-10.40.33:250][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.06-10.40.33:251][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.09.06-10.40.33:251][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.09.06-10.40.33:251][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Config/Windows/Engine.ini]
+[2022.09.06-10.40.33:252][  0]LogInit: Computer: 송지원
+[2022.09.06-10.40.33:252][  0]LogInit: User: we726
+[2022.09.06-10.40.33:252][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.09.06-10.40.33:252][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.06-10.40.33:252][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2022.09.06-10.40.33:252][  0]LogMemory: Platform Memory Stats for Windows
+[2022.09.06-10.40.33:252][  0]LogMemory: Process Physical Memory: 107.29 MB used, 107.29 MB peak
+[2022.09.06-10.40.33:252][  0]LogMemory: Process Virtual Memory: 100.68 MB used, 100.68 MB peak
+[2022.09.06-10.40.33:252][  0]LogMemory: Physical Memory: 4386.08 MB used,  3599.95 MB free, 7986.03 MB total
+[2022.09.06-10.40.33:252][  0]LogMemory: Virtual Memory: 5146.43 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2022.09.06-10.40.33:258][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.06-10.40.33:290][  0]LogInit: Using OS detected language (ko-KR).
+[2022.09.06-10.40.33:290][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.09.06-10.40.33:292][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2022.09.06-10.40.33:424][  0]LogInit: Setting process to per monitor DPI aware
+[2022.09.06-10.40.33:493][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.06-10.40.33:493][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.06-10.40.33:724][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.09.06-10.40.33:724][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.09.06-10.40.33:724][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.09.06-10.40.33:724][  0]LogD3D11RHI: D3D11 adapters:
+[2022.09.06-10.40.33:783][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2022.09.06-10.40.33:783][  0]LogD3D11RHI:       128/0/3993 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2022.09.06-10.40.33:788][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.09.06-10.40.33:788][  0]LogD3D11RHI:       0/0/3993 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.09.06-10.40.33:788][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.09.06-10.40.33:799][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.09.06-10.40.33:799][  0]LogD3D11RHI:     GPU DeviceId: 0x3ea0 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.06-10.40.33:799][  0]LogWindows: EnumDisplayDevices:
+[2022.09.06-10.40.33:799][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2022.09.06-10.40.33:801][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2022.09.06-10.40.33:801][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2022.09.06-10.40.33:802][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2022.09.06-10.40.33:802][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2022.09.06-10.40.33:802][  0]LogD3D11RHI:   Driver Version: 25.20.100.6325 (internal:25.20.100.6325, unified:25.20.100.6325)
+[2022.09.06-10.40.33:802][  0]LogD3D11RHI:      Driver Date: 9-21-2018
+[2022.09.06-10.40.33:802][  0]LogRHI: Texture pool is 1487 MB (70% of 2124 MB)
+[2022.09.06-10.40.33:891][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2022.09.06-10.40.33:891][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2022.09.06-10.40.33:891][  0]LogD3D11RHI: Async texture creation enabled
+[2022.09.06-10.40.33:900][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2022.09.06-10.40.34:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.09.06-10.40.34:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.09.06-10.40.34:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.09.06-10.40.34:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2022.09.06-10.40.34:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.09.06-10.40.34:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2022.09.06-10.40.34:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2022.09.06-10.40.34:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.09.06-10.40.34:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2022.09.06-10.40.34:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.09.06-10.40.34:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.09.06-10.40.34:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2022.09.06-10.40.34:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.09.06-10.40.34:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2022.09.06-10.40.34:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2022.09.06-10.40.34:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.09.06-10.40.34:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2022.09.06-10.40.34:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.09.06-10.40.34:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.09.06-10.40.34:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.09.06-10.40.34:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.09.06-10.40.34:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.09.06-10.40.34:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.09.06-10.40.34:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.09.06-10.40.34:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.09.06-10.40.34:677][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.09.06-10.40.34:694][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.09.06-10.40.34:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.09.06-10.40.34:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.09.06-10.40.34:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.09.06-10.40.34:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.09.06-10.40.34:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.09.06-10.40.34:819][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.09.06-10.40.34:838][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.09.06-10.40.34:855][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.09.06-10.40.34:855][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.09.06-10.40.34:862][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.06-10.40.34:905][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/we726/Documents/Unreal Projects/first_won/Intermediate/Shaders/WorkingDirectory/2544/).
+[2022.09.06-10.40.34:905][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/we726/AppData/Local/Temp/UnrealShaderWorkingDir/1F99D7C54B94CDC814F5CFA9D08BDDCE/'.
+[2022.09.06-10.40.34:906][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.06-10.40.34:906][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.09.06-10.40.34:906][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.09.06-10.40.36:258][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.09.06-10.40.36:340][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/we726/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.09.06-10.40.36:341][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/we726/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2022.09.06-10.40.36:341][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/we726/Documents/Unreal Projects/first_won/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.06-10.40.36:341][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.09.06-10.40.36:341][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/we726/Documents/Unreal Projects/first_won/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.06-10.40.36:341][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.09.06-10.40.36:359][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.09.06-10.40.36:359][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.06-10.40.36:359][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.09.06-10.40.36:361][  0]LogDerivedDataCache: Using Local data cache path C:/Users/we726/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.06-10.40.36:361][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.06-10.40.36:361][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.09.06-10.40.36:427][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.09.06-10.40.36:432][  0]LogSlate: Using FreeType 2.10.0
+[2022.09.06-10.40.36:433][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.06-10.40.36:527][  0]LogAssetRegistry: FAssetRegistry took 0.0056 seconds to start up
+[2022.09.06-10.40.37:019][  0]LogInit: Selected Device Profile: [Windows]
+[2022.09.06-10.40.37:276][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.06-10.40.37:276][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.06-10.40.37:276][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.06-10.40.37:276][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.06-10.40.37:276][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.06-10.40.37:294][  0]LogNetVersion: first_won 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2743396405)
+[2022.09.06-10.40.39:024][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.077496 seconds
+[2022.09.06-10.40.39:041][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2022.09.06-10.40.39:041][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2022.09.06-10.40.39:041][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.06-10.40.39:726][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.06-10.40.39:730][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.06-10.40.39:828][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.09.06-10.40.39:829][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.09.06-10.40.39:831][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.09.06-10.40.39:833][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.09.06-10.40.39:851][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.06-10.40.39:852][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.06-10.40.39:994][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.06-10.40.40:011][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.06-10.40.40:011][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.06-10.40.40:158][  0]LogOcInput: OculusInput pre-init called
+[2022.09.06-10.40.40:169][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.09.06-10.40.40:169][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.09.06-10.40.40:283][  0]LogEngine: Initializing Engine...
+[2022.09.06-10.40.40:284][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.09.06-10.40.40:286][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.09.06-10.40.40:960][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.06-10.40.40:971][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.06-10.40.41:000][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.06-10.40.41:000][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.06-10.40.41:000][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.06-10.40.41:000][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.06-10.40.41:000][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.06-10.40.41:000][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.06-10.40.41:000][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.06-10.40.41:000][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.06-10.40.41:001][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.09.06-10.40.41:001][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.06-10.40.41:018][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.09.06-10.40.41:018][  0]LogAudioMixer: Display: Name: 스피커(Synaptics SmartAudio HD)
+[2022.09.06-10.40.41:018][  0]LogAudioMixer: Display: Is Default: Yes
+[2022.09.06-10.40.41:018][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2022.09.06-10.40.41:018][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2022.09.06-10.40.41:018][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2022.09.06-10.40.41:018][  0]LogAudioMixer: Display: Channel Order:
+[2022.09.06-10.40.41:018][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.06-10.40.41:018][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.09.06-10.40.41:170][  0]LogAudioMixer: Display: Using Audio Device 스피커(Synaptics SmartAudio HD)
+[2022.09.06-10.40.41:179][  0]LogInit: FAudioDevice initialized.
+[2022.09.06-10.40.41:179][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.06-10.40.41:283][  0]LogDerivedDataCache: Saved boot cache 0.10s 78MB C:/Users/we726/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.09.06-10.40.41:284][  0]LogInit: Texture streaming: Enabled
+[2022.09.06-10.40.41:312][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.06-10.40.41:312][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.09.06-10.40.41:318][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.09.06-10.40.41:415][  0]LogInit: Transaction tracking system initialized
+[2022.09.06-10.40.41:431][  0]BlueprintLog: New page: 에디터 로드
+[2022.09.06-10.40.41:488][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2022.09.06-10.40.41:581][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.06-10.40.41:582][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.06-10.40.42:061][  0]LogFileCache: Scanning file cache for directory 'C:/Users/we726/Documents/Unreal Projects/first_won/Content/' took 0.01s
+[2022.09.06-10.40.42:061][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.09.06-10.40.42:061][  0]LogCook: Display: Mobile HDR setting 1
+[2022.09.06-10.40.43:218][  0]LogSourceControl: Attempting "svn info --xml "../../../../../../Users/we726/Documents/Unreal Projects/first_won/" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-10.40.43:432][  0]LogSourceControl: Unable to detect system-level svn binary.
+[2022.09.06-10.40.43:432][  0]LogSourceControl: Using path C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/ThirdParty/svn/Win64/svn.exe for svn operations
+[2022.09.06-10.40.43:502][  0]SourceControl: Warning: svn://192.168.1.247/VRAD_jwsong 저장소 연결에 성공했습니다.
+[2022.09.06-10.40.43:503][  0]Cmd: MAP LOAD FILE="../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.06-10.40.43:505][  0]LightingResults: New page: 라이팅 빌드
+[2022.09.06-10.40.43:506][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-10.40.43:506][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-10.40.43:506][  0]MapCheck: New page: 맵 체크
+[2022.09.06-10.40.43:506][  0]LightingResults: New page: 라이팅 빌드
+[2022.09.06-10.40.43:565][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2022.09.06-10.40.43:876][  0]LogLinker: Warning: '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' 로드 도중 '/Game/Quiz_0_Pawn' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2022.09.06-10.40.43:876][  0]LogLinker: Warning: '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' 로드 도중 '/Game/Quiz_0_Pawn' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2022.09.06-10.40.43:877][  0]LogLinker: Warning: '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' 로드 도중 '/Game/Quiz_0_Pawn' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2022.09.06-10.40.43:878][  0]LogLinker: Warning: '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' 로드 도중 '/Game/Quiz_0_Pawn' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2022.09.06-10.40.43:887][  0]LogLinker: Warning: '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' 로드 도중 '/Game/Quiz_0_Pawn' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2022.09.06-10.40.43:887][  0]LogLinker: Warning: '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' 로드 도중 '/Game/Quiz_0_Pawn' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2022.09.06-10.40.43:888][  0]LogLinker: Warning: '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' 로드 도중 '/Game/Quiz_0_Pawn' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2022.09.06-10.40.43:888][  0]LogLinker: Warning: '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' 로드 도중 '/Game/Quiz_0_Pawn' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2022.09.06-10.40.43:890][  0]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.09.06-10.40.43:890][  0]LogLinker: Warning: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.09.06-10.40.43:890][  0]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.09.06-10.40.43:891][  0]LogLinker: Warning: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.09.06-10.40.43:891][  0]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.09.06-10.40.43:891][  0]LogLinker: Warning: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.09.06-10.40.43:891][  0]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.09.06-10.40.43:891][  0]LogLinker: Warning: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.09.06-10.40.43:896][  0]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.09.06-10.40.43:896][  0]LogLinker: Warning: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.09.06-10.40.43:898][  0]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.09.06-10.40.43:898][  0]LogLinker: Warning: '{FileName}': 애셋에 대한 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2022.09.06-10.40.44:178][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.09.06-10.40.44:191][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.06-10.40.44:290][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2022.09.06-10.40.44:290][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.06-10.40.44:290][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.224ms.
+[2022.09.06-10.40.44:290][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.788
+[2022.09.06-10.40.44:421][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2022.09.06-10.40.44:603][  0]LogSourceControl: Attempting "svn info "C:/Users/we726/Documents/Unreal Projects/first_won/" --xml --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-10.40.44:603][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-10.40.44:636][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-10.40.44:676][  0]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-10.40.44:676][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-10.40.44:719][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-10.40.44:730][  0]LogCollectionManager: Loaded 0 collections in 0.003656 seconds
+[2022.09.06-10.40.44:762][  0]LogFileCache: Scanning file cache for directory 'C:/Users/we726/Documents/Unreal Projects/first_won/Saved/Collections/' took 0.00s
+[2022.09.06-10.40.44:762][  0]LogFileCache: Scanning file cache for directory 'C:/Users/we726/Documents/Unreal Projects/first_won/Content/Developers/we726/Collections/' took 0.00s
+[2022.09.06-10.40.44:762][  0]LogFileCache: Scanning file cache for directory 'C:/Users/we726/Documents/Unreal Projects/first_won/Content/Collections/' took 0.00s
+[2022.09.06-10.40.44:762][  0]LogContentBrowser: Native class hierarchy populated in 0.0211 seconds. Added 3015 classes and 717 folders.
+[2022.09.06-10.40.44:768][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.09.06-10.40.45:135][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2022.09.06-10.40.45:148][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 2 classes and 3 folders.
+[2022.09.06-10.40.45:362][  0]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.06-10.40.45:370][  0]LogSlate: Took 0.004599 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.09.06-10.40.45:373][  0]LogSlate: Took 0.002691 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.09.06-10.40.45:374][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.06-10.40.45:385][  0]LogSlate: Took 0.007241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.06-10.40.45:568][  0]LogRenderer: Reallocating scene render targets to support 964x428 Format 10 NumSamples 1 (Frame:1).
+[2022.09.06-10.40.45:728][  0]LogSlate: Took 0.001325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.06-10.40.45:791][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.09.06-10.40.45:791][  0]LogLoad: (Engine Initialization) Total time: 14.86 seconds
+[2022.09.06-10.40.45:791][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.06-10.40.45:813][  0]LoadErrors: Warning: CreateExport: 'Camera' 리소스에 대한 Quiz_0_Pawn_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Quiz_0_Pawn_2 Outer 로드에 실패했습니다.
+[2022.09.06-10.40.45:813][  0]LoadErrors: Warning: CreateExport: 'DefaultSceneRoot' 리소스에 대한 Quiz_0_Pawn_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Quiz_0_Pawn_2 Outer 로드에 실패했습니다.
+[2022.09.06-10.40.46:119][  0]SourceControl: Error: svn: E170013: Unable to connect to a repository at URL 'svn://vradrouter.iptime.org:43690/VRAD_jwsong'
+[2022.09.06-10.40.46:119][  0]SourceControl: Error: svn: E731001: Unknown hostname 'vradrouter.iptime.org'
+[2022.09.06-10.40.46:120][  0]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_0.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-10.40.46:120][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.06-10.40.46:343][  2]LogAssetRegistry: Asset discovery search completed in 9.8182 seconds
+[2022.09.06-10.40.46:353][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000016 seconds (updated 0 objects)
+[2022.09.06-10.40.46:353][  2]SourceControl: Error: svn: E170013: Unable to connect to a repository at URL 'svn://vradrouter.iptime.org:43690/VRAD_jwsong/Content'
+[2022.09.06-10.40.46:353][  2]SourceControl: Error: svn: E731001: Unknown hostname 'vradrouter.iptime.org'
+[2022.09.06-10.40.49:055][ 61]LogSlate: Window '메시지 로그' being destroyed
+[2022.09.06-10.40.49:063][ 61]LogSlate: Window '메시지 로그' being destroyed
+[2022.09.06-10.40.51:266][125]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_2.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_3.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_4.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_5.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_6.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_7.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-10.40.51:519][132]SourceControl: Error: svn: E170013: Unable to connect to a repository at URL 'svn://vradrouter.iptime.org:43690/VRAD_jwsong/Content/Quiz_3/MyMaterial'
+[2022.09.06-10.40.51:519][132]SourceControl: Error: svn: E731001: Unknown hostname 'vradrouter.iptime.org'
+[2022.09.06-10.40.52:695][162]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz3_Pawn.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level.umap" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level_BuiltData.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Widget.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-10.40.52:989][167]SourceControl: Error: svn: E170013: Unable to connect to a repository at URL 'svn://vradrouter.iptime.org:43690/VRAD_jwsong/Content/Quiz_3'
+[2022.09.06-10.40.52:989][167]SourceControl: Error: svn: E731001: Unknown hostname 'vradrouter.iptime.org'
+[2022.09.06-10.40.53:414][182]LogSlate: Took 0.001361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.06-10.40.53:798][182]LogAIModule: Creating AISystem for world Quiz_3_Level
+[2022.09.06-10.40.53:821][182]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Quiz_3/Quiz_3_Level.Quiz_3_Level
+[2022.09.06-10.40.53:900][182]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2022.09.06-10.40.53:901][182]Cmd: MAP LOAD FILE="../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.06-10.40.53:901][182]LightingResults: New page: 라이팅 빌드
+[2022.09.06-10.40.53:902][182]LoadErrors: New page: 맵 로드중: Quiz_3_Level.umap
+[2022.09.06-10.40.53:902][182]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-10.40.53:902][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-10.40.53:903][182]MapCheck: New page: 맵 체크
+[2022.09.06-10.40.53:903][182]LightingResults: New page: 라이팅 빌드
+[2022.09.06-10.40.53:950][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.09.06-10.40.54:059][182]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.06-10.40.54:110][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.09.06-10.40.54:141][182]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.06-10.40.54:141][182]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.162ms.
+[2022.09.06-10.40.54:141][182]LogFileHelpers: Loading map 'Quiz_3_Level' took 0.242
+[2022.09.06-10.41.00:689][329]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Quiz_3/Quiz3_Pawn.Quiz3_Pawn
+[2022.09.06-10.41.01:204][329]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 121 classes and 0 folders.
+[2022.09.06-10.41.02:858][329]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.06-10.41.45:929][139]LogHttp: Warning: 000001F383FCA0C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEAFF9E90-406B-17A9-BDD8-93A92F409F43%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=2d75e193449db5567aca75a7f54e3142%7C5796ca4be38c439997aadf15c30971bf%7C82d39c2b-8b80-4332-81ec-c405e6d0bcbb&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.06-10.41.45:929][139]LogHttp: Warning: 000001F383FCA0C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.06-10.41.45:929][139]LogHttp: Warning: 000001F383FCA0C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.06-10.41.45:929][139]LogHttp: Warning: 000001F383FCA0C0: libcurl info message cache 1 (Closing connection 0)
+[2022.09.06-10.41.45:980][140]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEAFF9E90-406B-17A9-BDD8-93A92F409F43%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=2d75e193449db5567aca75a7f54e3142%7C5796ca4be38c439997aadf15c30971bf%7C82d39c2b-8b80-4332-81ec-c405e6d0bcbb&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.06-10.43.46:038][538]LogHttp: Warning: 000001F383BF87C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEAFF9E90-406B-17A9-BDD8-93A92F409F43%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=2d75e193449db5567aca75a7f54e3142%7C5796ca4be38c439997aadf15c30971bf%7C82d39c2b-8b80-4332-81ec-c405e6d0bcbb&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.06-10.43.46:038][538]LogHttp: Warning: 000001F383BF87C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.06-10.43.46:038][538]LogHttp: Warning: 000001F383BF87C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.06-10.43.46:038][538]LogHttp: Warning: 000001F383BF87C0: libcurl info message cache 1 (Closing connection 1)
+[2022.09.06-10.43.46:038][538]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEAFF9E90-406B-17A9-BDD8-93A92F409F43%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=2d75e193449db5567aca75a7f54e3142%7C5796ca4be38c439997aadf15c30971bf%7C82d39c2b-8b80-4332-81ec-c405e6d0bcbb&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.06-10.45.46:624][123]LogHttp: Warning: 000001F383BF8540: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEAFF9E90-406B-17A9-BDD8-93A92F409F43%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=2d75e193449db5567aca75a7f54e3142%7C5796ca4be38c439997aadf15c30971bf%7C82d39c2b-8b80-4332-81ec-c405e6d0bcbb&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.06-10.45.46:624][123]LogHttp: Warning: 000001F383BF8540: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.06-10.45.46:624][123]LogHttp: Warning: 000001F383BF8540: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.06-10.45.46:624][123]LogHttp: Warning: 000001F383BF8540: libcurl info message cache 1 (Closing connection 2)
+[2022.09.06-10.45.46:959][124]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEAFF9E90-406B-17A9-BDD8-93A92F409F43%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=2d75e193449db5567aca75a7f54e3142%7C5796ca4be38c439997aadf15c30971bf%7C82d39c2b-8b80-4332-81ec-c405e6d0bcbb&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.06-10.46.03:041][171]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.09.06-10.46.35:710][290]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.09.06-10.49.39:303][136]LogSlate: Took 0.001615 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.06-10.49.51:500][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ColorBoxActor1)
+[2022.09.06-10.51.20:104][421]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_2.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_3.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_4.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_5.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_6.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_7.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-10.51.46:839][619]LogSlate: Window '머티리얼 굽기 옵션' being destroyed
+[2022.09.06-10.51.46:901][619]LogMaterial: Display: Missing cached shader map for material FExportMaterialRenderer NewMaterial, compiling. 
+[2022.09.06-10.51.51:265][619]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2022.09.06-10.51.51:267][619]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2022.09.06-10.51.51:267][619]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2022.09.06-10.51.51:267][619]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2022.09.06-10.51.51:267][619]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2022.09.06-10.51.51:267][619]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2022.09.06-10.51.51:267][619]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2022.09.06-10.51.51:267][619]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2022.09.06-10.51.51:267][619]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2022.09.06-10.51.51:267][619]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2022.09.06-10.51.51:267][619]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2022.09.06-10.51.51:267][619]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2022.09.06-10.51.51:267][619]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2022.09.06-10.51.51:267][619]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2022.09.06-10.51.51:267][619]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.09.06-10.51.51:267][619]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2022.09.06-10.51.51:267][619]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2022.09.06-10.51.51:267][619]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2022.09.06-10.51.51:267][619]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2022.09.06-10.51.51:267][619]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.09.06-10.51.51:267][619]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.09.06-10.51.51:267][619]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.09.06-10.51.51:380][619]LogTexture: Display: 텍스처 빌드: T_M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960_BaseColor (BGRA8, 1X1)
+[2022.09.06-10.51.51:401][619]LogMaterial: Display: Missing cached shader map for material NewBaseFlattenMaterial, compiling. 
+[2022.09.06-10.51.51:601][619]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 163
+[2022.09.06-10.51.51:601][619]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 153
+[2022.09.06-10.51.51:601][619]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 143
+[2022.09.06-10.51.51:601][619]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 133
+[2022.09.06-10.51.51:601][619]LogMaterial: Display: Missing cached shader map for material NewBaseFlattenMaterial, compiling. 
+[2022.09.06-10.51.51:784][619]LogMaterial: Display: Missing cached shader map for material NewBaseFlattenMaterial, compiling. 
+[2022.09.06-10.51.55:450][619]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 449
+[2022.09.06-10.51.55:729][619]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 439
+[2022.09.06-10.51.59:052][619]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 429
+[2022.09.06-10.51.59:181][619]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 419
+[2022.09.06-10.51.59:446][619]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 409
+[2022.09.06-10.52.00:801][619]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 399
+[2022.09.06-10.52.03:125][619]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 389
+[2022.09.06-10.52.03:814][619]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 379
+[2022.09.06-10.52.05:539][619]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 369
+[2022.09.06-10.52.07:174][619]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 359
+[2022.09.06-10.52.07:384][619]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 349
+[2022.09.06-10.52.07:971][619]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 339
+[2022.09.06-10.52.11:184][619]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 329
+[2022.09.06-10.52.11:297][619]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 319
+[2022.09.06-10.52.11:567][619]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 309
+[2022.09.06-10.52.14:214][619]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 299
+[2022.09.06-10.52.14:912][619]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 289
+[2022.09.06-10.52.15:171][619]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 279
+[2022.09.06-10.52.17:445][619]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 269
+[2022.09.06-10.52.19:030][619]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 259
+[2022.09.06-10.52.21:929][619]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 249
+[2022.09.06-10.52.22:001][619]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 239
+[2022.09.06-10.52.23:092][619]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 229
+[2022.09.06-10.52.24:659][619]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 219
+[2022.09.06-10.52.24:734][619]LogSlate: Window '머티리얼 굽기 옵션' being destroyed
+[2022.09.06-10.52.24:798][620]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "/Script/MaterialBaking" "C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes/M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-10.52.24:875][620]SourceControl: svn: warning: W155007: 'C:\Script\MaterialBaking' is not a working copy
+[2022.09.06-10.52.24:877][620]SourceControl: svn: warning: W155007: 'C:\Program Files\Epic Games\UE_4.24\Engine\Content\BasicShapes\M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960.uasset' is not a working copy
+[2022.09.06-10.52.25:921][630]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 209
+[2022.09.06-10.52.32:805][761]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 199
+[2022.09.06-10.52.32:919][763]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 189
+[2022.09.06-10.52.33:608][773]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 179
+[2022.09.06-10.52.43:147][929]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 169
+[2022.09.06-10.52.44:782][964]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 159
+[2022.09.06-10.52.47:750][ 23]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 149
+[2022.09.06-10.52.54:372][150]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 139
+[2022.09.06-10.52.57:316][204]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 129
+[2022.09.06-10.52.57:535][207]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 119
+[2022.09.06-10.53.03:219][305]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 109
+[2022.09.06-10.53.09:621][435]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 99
+[2022.09.06-10.53.15:995][566]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 89
+[2022.09.06-10.53.18:462][608]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 79
+[2022.09.06-10.53.21:483][671]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 69
+[2022.09.06-10.53.26:085][765]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 59
+[2022.09.06-10.53.29:192][829]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 49
+[2022.09.06-10.53.31:709][885]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 39
+[2022.09.06-10.53.35:915][977]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2022.09.06-10.53.37:875][ 19]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2022.09.06-10.53.43:279][128]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2022.09.06-10.53.43:887][142]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2022.09.06-10.53.43:984][144]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.09.06-10.53.48:086][235]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.09.06-10.53.48:807][251]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2022.09.06-10.53.49:272][261]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.09.06-10.53.50:088][279]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.09.06-10.53.52:966][316]LogUObjectHash: Compacting FUObjectHashTables data took   7.46ms
+[2022.09.06-10.53.52:969][316]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Quiz_3/Quiz_3_Level' took 0.086
+[2022.09.06-10.53.52:971][316]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Engine/BasicShapes/M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960] ([2] browsable assets)...
+[2022.09.06-10.53.53:011][316]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Engine/BasicShapes/M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960.M_M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960]
+[2022.09.06-10.53.53:013][316]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Engine/BasicShapes/M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960.T_M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960_BaseColor]
+[2022.09.06-10.53.53:013][316]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960]
+[2022.09.06-10.53.53:043][316]LogSavePackage: Moving '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/M_Cube_NewMaterial_145B6A044BA9707EBFA1E4D421FBD12B4949725429AC0.tmp' to '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/Autosaves/Engine/BasicShapes/M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960_Auto1.uasset'
+[2022.09.06-10.53.53:044][316]LogFileHelpers: Auto-saving content packages took 0.076
+[2022.09.06-10.54.13:768][697]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level.umap" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-10.55.36:032][873]Cmd: TRANSACTION UNDO
+[2022.09.06-10.55.36:032][873]LogEditorTransaction: Undo 컴포넌트 사용된 머티리얼을 대체합니다.
+[2022.09.06-10.55.41:124][962]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes/BasicShapeMaterial.uasset" "C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes/Cone.uasset" "C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes/Cube.uasset" "C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes/Cube1.uasset" "C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes/Cylinder.uasset" "C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes/Plane.uasset" "C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes/Sphere.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-10.55.41:264][963]SourceControl: svn: warning: W155007: 'C:\Program Files\Epic Games\UE_4.24\Engine\Content\BasicShapes\BasicShapeMaterial.uasset' is not a working copy
+[2022.09.06-10.55.41:264][963]SourceControl: svn: warning: W155007: 'C:\Program Files\Epic Games\UE_4.24\Engine\Content\BasicShapes\Cone.uasset' is not a working copy
+[2022.09.06-10.55.41:264][963]SourceControl: svn: warning: W155007: 'C:\Program Files\Epic Games\UE_4.24\Engine\Content\BasicShapes\Cube.uasset' is not a working copy
+[2022.09.06-10.55.41:264][963]SourceControl: svn: warning: W155007: 'C:\Program Files\Epic Games\UE_4.24\Engine\Content\BasicShapes\Cube1.uasset' is not a working copy
+[2022.09.06-10.55.41:265][963]SourceControl: svn: warning: W155007: 'C:\Program Files\Epic Games\UE_4.24\Engine\Content\BasicShapes\Cylinder.uasset' is not a working copy
+[2022.09.06-10.55.41:265][963]SourceControl: svn: warning: W155007: 'C:\Program Files\Epic Games\UE_4.24\Engine\Content\BasicShapes\Plane.uasset' is not a working copy
+[2022.09.06-10.55.41:265][963]SourceControl: svn: warning: W155007: 'C:\Program Files\Epic Games\UE_4.24\Engine\Content\BasicShapes\Sphere.uasset' is not a working copy
+[2022.09.06-10.56.00:670][ 99]LogSlate: Window '머티리얼 굽기 옵션' being destroyed
+[2022.09.06-10.56.00:736][ 99]LogMaterial: Display: Missing cached shader map for material FExportMaterialRenderer M_M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960, compiling. 
+[2022.09.06-10.56.04:885][ 99]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2022.09.06-10.56.04:885][ 99]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2022.09.06-10.56.04:885][ 99]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2022.09.06-10.56.04:885][ 99]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2022.09.06-10.56.04:885][ 99]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2022.09.06-10.56.04:885][ 99]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2022.09.06-10.56.04:885][ 99]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2022.09.06-10.56.04:885][ 99]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2022.09.06-10.56.04:885][ 99]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2022.09.06-10.56.04:885][ 99]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2022.09.06-10.56.04:885][ 99]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2022.09.06-10.56.04:885][ 99]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2022.09.06-10.56.04:885][ 99]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2022.09.06-10.56.04:887][ 99]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2022.09.06-10.56.04:887][ 99]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.09.06-10.56.04:887][ 99]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.09.06-10.56.04:887][ 99]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2022.09.06-10.56.04:887][ 99]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.09.06-10.56.04:887][ 99]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2022.09.06-10.56.04:887][ 99]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2022.09.06-10.56.04:887][ 99]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.09.06-10.56.04:887][ 99]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.09.06-10.56.04:931][ 99]LogTexture: Display: 텍스처 빌드: T_M_Cube_M_M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960_D2A6100F46FB4D74ACBB95B123463AD7_BaseColor (BGRA8, 1X1)
+[2022.09.06-10.56.05:072][100]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes/M_Cube_M_M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960_D2A6100F46FB4D74ACBB95B123463AD7.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-10.56.05:214][102]SourceControl: svn: warning: W155007: 'C:\Program Files\Epic Games\UE_4.24\Engine\Content\BasicShapes\M_Cube_M_M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960_D2A6100F46FB4D74ACBB95B123463AD7.uasset' is not a working copy
+[2022.09.06-10.56.15:217][172]LogSlate: Window '머티리얼 굽기 옵션' being destroyed
+[2022.09.06-10.58.28:093][742]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_2.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_3.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_4.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_5.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_6.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_7.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-10.58.28:481][744]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Quiz_3/MyMaterial/NewMaterial.NewMaterial
+[2022.09.06-10.58.28:494][744]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2022.09.06-10.58.29:124][744]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2022.09.06-10.58.29:166][744]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2022.09.06-10.58.29:200][744]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2022.09.06-10.58.29:200][744]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2022.09.06-10.58.29:200][744]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2022.09.06-10.58.29:200][744]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.09.06-10.58.29:226][744]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.09.06-10.58.32:487][776]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2022.09.06-10.58.32:603][777]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2022.09.06-10.58.32:750][779]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.09.06-10.58.32:862][781]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.09.06-10.58.34:405][801]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.09.06-10.58.34:671][804]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2022.09.06-10.58.35:612][816]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.09.06-10.58.35:881][819]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2022.09.06-10.58.37:024][833]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2022.09.06-10.58.37:440][838]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.09.06-10.58.37:441][838]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.09.06-10.58.37:567][839]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.09.06-10.58.37:567][839]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2022.09.06-10.58.37:567][839]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.09.06-10.58.37:567][839]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2022.09.06-10.58.37:568][839]MaterialEditorStats: Texture samplers: 2/16
+[2022.09.06-10.59.12:411][356]LogSlate: Window '애셋을 다른 이름으로 저장' being destroyed
+[2022.09.06-10.59.27:522][624]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2022.09.06-10.59.27:639][625]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2022.09.06-10.59.27:639][625]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2022.09.06-10.59.27:639][625]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2022.09.06-10.59.27:639][625]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.09.06-10.59.31:538][674]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2022.09.06-10.59.31:595][675]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2022.09.06-10.59.31:649][675]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.09.06-10.59.31:774][675]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2022.09.06-10.59.33:415][697]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2022.09.06-10.59.33:653][700]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.09.06-10.59.34:609][711]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.09.06-10.59.36:221][732]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.09.06-10.59.36:222][732]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2022.09.06-10.59.36:222][732]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.09.06-10.59.36:222][732]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2022.09.06-10.59.36:222][732]MaterialEditorStats: Texture samplers: 2/16
+[2022.09.06-11.03.53:690][139]LogUObjectHash: Compacting FUObjectHashTables data took  15.14ms
+[2022.09.06-11.03.53:814][139]LogSavePackage: Moving '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/Quiz_3_Level_Auto2488F7FD748664AFD82CFC88287ABD5FB.tmp' to '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/Autosaves/Game/Quiz_3/Quiz_3_Level_Auto2.umap'
+[2022.09.06-11.03.53:819][139]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Quiz_3/Quiz_3_Level' took 0.341
+[2022.09.06-11.03.53:819][139]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.341
+[2022.09.06-11.03.53:819][139]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Engine/BasicShapes/M_Cube_M_M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960_D2A6100F46FB4D74ACBB95B123463AD7] ([2] browsable assets)...
+[2022.09.06-11.03.53:881][139]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Engine/BasicShapes/M_Cube_M_M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960_D2A6100F46FB4D74ACBB95B123463AD7.M_M_Cube_M_M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960_D2A6100F46FB4D74ACBB95B123463AD7]
+[2022.09.06-11.03.53:884][139]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Engine/BasicShapes/M_Cube_M_M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960_D2A6100F46FB4D74ACBB95B123463AD7.T_M_Cube_M_M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960_D2A6100F46FB4D74ACBB95B123463AD7_BaseColor]
+[2022.09.06-11.03.53:884][139]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/M_Cube_M_M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960_D2A6100F46FB4D74ACBB95B123463AD7]
+[2022.09.06-11.03.53:932][139]LogSavePackage: Moving '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/M_Cube_M_M_Cube_NewMaterial_145BC2F7246344FA5CD523FFA0B7EFFA4F65.tmp' to '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/Autosaves/Engine/BasicShapes/M_Cube_M_M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960_D2A6100F46FB4D74ACBB95B123463AD7_Auto2.uasset'
+[2022.09.06-11.03.53:938][139]LogFileHelpers: Auto-saving content packages took 0.120
+[2022.09.06-11.04.01:616][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ColorBoxActor1)
+[2022.09.06-11.04.09:150][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ColorBoxActor1)
+[2022.09.06-11.04.09:215][503]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.09.06-11.04.09:987][524]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.09.06-11.04.10:085][524]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (ColorBoxActor1)
+[2022.09.06-11.04.10:903][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ColorBoxActor1)
+[2022.09.06-11.04.11:000][548]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.09.06-11.04.11:201][553]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.09.06-11.04.11:285][553]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (ColorBoxActor1)
+[2022.09.06-11.04.11:512][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ColorBoxActor1)
+[2022.09.06-11.04.11:811][566]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.09.06-11.04.12:038][572]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.09.06-11.04.12:134][572]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (ColorBoxActor1)
+[2022.09.06-11.04.12:357][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ColorBoxActor1)
+[2022.09.06-11.04.27:502][934]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Cube_Blueprint.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/NewLevelSequence.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_0.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_1_Pawn.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.04.29:690][974]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz3_Pawn.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level.umap" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level_BuiltData.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Widget.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.04.42:480][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ColorBoxActor1)
+[2022.09.06-11.04.42:558][263]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.09.06-11.04.42:805][269]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.09.06-11.04.42:895][269]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (ColorBoxActor1)
+[2022.09.06-11.04.43:561][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ColorBoxActor1)
+[2022.09.06-11.04.50:550][474]LogSlate: Window '경로 선택' being destroyed
+[2022.09.06-11.04.50:687][474]LogUObjectHash: Compacting FUObjectHashTables data took  11.02ms
+[2022.09.06-11.04.50:761][474]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.04.51:259][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_3/ColorBoxActor1_Blueprint" FILE="../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" SILENT=true
+[2022.09.06-11.04.51:313][474]LogSavePackage: Moving '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/ColorBoxActor1_Blueprint9D21D34C498FAC55DEDBCC9D0AB34101.tmp' to '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset'
+[2022.09.06-11.04.51:375][474]LogSourceControl: Attempting "svn add --force --parents "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.04.51:528][474]LogSourceControl: Attempting "svn status --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.04.51:601][474]SourceControl: A  (bin)  C:\Users\we726\Documents\Unreal Projects\first_won\Content\Quiz_3\ColorBoxActor1_Blueprint.uasset
+[2022.09.06-11.04.51:697][474]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Quiz_3/ColorBoxActor1_Blueprint.ColorBoxActor1_Blueprint
+[2022.09.06-11.04.52:506][474]AssetCheck: New page: Asset Save: ColorBoxActor1_Blueprint
+[2022.09.06-11.04.52:506][474]LogContentValidation: Display: Blueprint /Game/Quiz_3/ColorBoxActor1_Blueprint.ColorBoxActor1_Blueprint 유효성 검사
+[2022.09.06-11.04.52:624][474]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.04.52:672][475]LogRenderer: Reallocating scene render targets to support 1004x676 Format 10 NumSamples 1 (Frame:1).
+[2022.09.06-11.05.47:950][663]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.07.48:667][365]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.07.49:130][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_3/ColorBoxActor1_Blueprint" FILE="../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" SILENT=true
+[2022.09.06-11.07.49:223][365]LogSavePackage: Moving '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/ColorBoxActor1_BlueprintAF318D754E8B027C0DB30DA3D03D80C5.tmp' to '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset'
+[2022.09.06-11.07.49:272][365]AssetCheck: New page: Asset Save: ColorBoxActor1_Blueprint
+[2022.09.06-11.07.49:272][365]LogContentValidation: Display: Blueprint /Game/Quiz_3/ColorBoxActor1_Blueprint.ColorBoxActor1_Blueprint 유효성 검사
+[2022.09.06-11.07.50:167][385]BlueprintLog: New page: ColorBoxActor1_Blueprint 컴파일
+[2022.09.06-11.07.50:762][385]LogUObjectHash: Compacting FUObjectHashTables data took   8.52ms
+[2022.09.06-11.08.26:566][111]LogSlate: Window '색 선택 툴' being destroyed
+[2022.09.06-11.08.38:184][383]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.08.42:994][403]LogSlate: Window '색 선택 툴' being destroyed
+[2022.09.06-11.08.51:685][688]LogSlate: Window '색 선택 툴' being destroyed
+[2022.09.06-11.08.53:238][729]BlueprintLog: New page: ColorBoxActor1_Blueprint 컴파일
+[2022.09.06-11.08.53:763][729]LogUObjectHash: Compacting FUObjectHashTables data took   7.50ms
+[2022.09.06-11.08.53:811][729]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.08.54:133][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_3/ColorBoxActor1_Blueprint" FILE="../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" SILENT=true
+[2022.09.06-11.08.54:182][729]LogSavePackage: Moving '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/ColorBoxActor1_Blueprint4044B5064CE9769E5AD0C1BD3208A584.tmp' to '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset'
+[2022.09.06-11.08.54:210][729]AssetCheck: New page: Asset Save: ColorBoxActor1_Blueprint
+[2022.09.06-11.08.54:210][729]LogContentValidation: Display: Blueprint /Game/Quiz_3/ColorBoxActor1_Blueprint.ColorBoxActor1_Blueprint 유효성 검사
+[2022.09.06-11.09.03:368][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.09.06-11.09.39:626][794]LogSlate: Window '부모 클래스 선택' being destroyed
+[2022.09.06-11.09.40:745][821]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz3_Pawn.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level.umap" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level_BuiltData.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Widget.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.09.43:275][851]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/NewBlueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.09.43:570][851]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/NewBlueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.09.44:551][885]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/NewBlueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.09.45:876][919]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Quiz_3/NewBlueprint.NewBlueprint
+[2022.09.06-11.09.50:648][991]LogSlate: Window 'NewBlueprint' being destroyed
+[2022.09.06-11.09.50:658][991]LogSlate: Window 'NewBlueprint' being destroyed
+[2022.09.06-11.09.50:685][991]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-11.09.50:685][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-11.09.50:961][991]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-11.09.50:961][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-11.09.51:014][991]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.09.06-11.09.51:014][991]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-11.09.51:014][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-11.09.51:122][991]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.09.06-11.09.51:122][991]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-11.09.51:122][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-11.09.52:619][  9]LogUObjectHash: Compacting FUObjectHashTables data took   8.97ms
+[2022.09.06-11.09.54:466][  9]LogSlate: Window 'Delete Assets' being destroyed
+[2022.09.06-11.09.54:768][  9]LogUObjectHash: Compacting FUObjectHashTables data took   7.26ms
+[2022.09.06-11.10.06:470][178]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Quiz_3/ColorBoxActor1_Blueprint.ColorBoxActor1_Blueprint
+[2022.09.06-11.10.22:200][597]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.10.24:430][648]BlueprintLog: New page: ColorBoxActor1_Blueprint 컴파일
+[2022.09.06-11.10.24:815][648]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2022.09.06-11.10.24:876][648]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.10.25:212][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_3/ColorBoxActor1_Blueprint" FILE="../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" SILENT=true
+[2022.09.06-11.10.25:263][648]LogSavePackage: Moving '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/ColorBoxActor1_BlueprintA42588A74CEF51BB794297A06AD7F3A0.tmp' to '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset'
+[2022.09.06-11.10.25:291][648]AssetCheck: New page: Asset Save: ColorBoxActor1_Blueprint
+[2022.09.06-11.10.25:291][648]LogContentValidation: Display: Blueprint /Game/Quiz_3/ColorBoxActor1_Blueprint.ColorBoxActor1_Blueprint 유효성 검사
+[2022.09.06-11.10.27:061][691]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.09.06-11.10.27:096][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.06-11.10.27:098][691]PIE: New page: PIE 세션: Quiz_3_Level (2022. 9. 7. 오전 5:10:27)
+[2022.09.06-11.10.27:105][691]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.09.06-11.10.27:108][691]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.09.06-11.10.27:109][691]LogPlayLevel: Creating play world package: /Game/Quiz_3/UEDPIE_0_Quiz_3_Level
+[2022.09.06-11.10.27:117][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006918s)
+[2022.09.06-11.10.27:120][691]LogAIModule: Creating AISystem for world Quiz_3_Level
+[2022.09.06-11.10.27:120][691]LogPlayLevel: PIE: World Init took: (0.003158s)
+[2022.09.06-11.10.27:120][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Quiz_3/Quiz_3_Level.Quiz_3_Level to /Game/Quiz_3/UEDPIE_0_Quiz_3_Level.Quiz_3_Level (0.010588s)
+[2022.09.06-11.10.27:195][691]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2022.09.06-11.10.27:201][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.06-11.10.27:201][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.06-11.10.27:201][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.06-11.10.27:201][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.06-11.10.27:201][691]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.06-11.10.27:201][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.06-11.10.27:201][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.06-11.10.27:201][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.06-11.10.27:202][691]LogAudio: Display: Using built-in audio occlusion.
+[2022.09.06-11.10.27:202][691]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.06-11.10.27:211][691]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.09.06-11.10.27:211][691]LogAudioMixer: Display: Name: 스피커(Synaptics SmartAudio HD)
+[2022.09.06-11.10.27:211][691]LogAudioMixer: Display: Is Default: Yes
+[2022.09.06-11.10.27:211][691]LogAudioMixer: Display: Sample Rate: 48000
+[2022.09.06-11.10.27:211][691]LogAudioMixer: Display: Channel Count Used: 2
+[2022.09.06-11.10.27:211][691]LogAudioMixer: Display: Device Channel Count: 2
+[2022.09.06-11.10.27:211][691]LogAudioMixer: Display: Channel Order:
+[2022.09.06-11.10.27:211][691]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.06-11.10.27:211][691]LogAudioMixer: Display: 1: FrontRight
+[2022.09.06-11.10.27:300][691]LogAudioMixer: Display: Using Audio Device 스피커(Synaptics SmartAudio HD)
+[2022.09.06-11.10.27:308][691]LogInit: FAudioDevice initialized.
+[2022.09.06-11.10.27:351][691]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.09.06-11.10.27:373][691]LogWorld: Bringing World /Game/Quiz_3/UEDPIE_0_Quiz_3_Level.Quiz_3_Level up for play (max tick rate 60) at 2022.09.06-20.10.27
+[2022.09.06-11.10.27:376][691]LogWorld: Bringing up level for play took: 0.006381
+[2022.09.06-11.10.27:377][691]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.09.06-11.10.27:427][691]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 20 classes and 0 folders.
+[2022.09.06-11.10.27:460][691]PIE: /Game/Quiz_3/UEDPIE_0_Quiz_3_Level 에 대한 에디터에서 플레이 시작 시간: 1.157
+[2022.09.06-11.10.31:921][818]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.10.31:974][820]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.10.32:005][821]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.10.32:033][822]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.10.32:063][823]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.10.37:345][  9]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.10.37:373][ 10]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.10.37:403][ 11]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.10.37:437][ 12]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.10.37:490][ 14]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.10.37:906][ 28]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.10.40:632][122]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.10.40:632][122]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.10.40:637][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-11.10.40:637][122]LogWorld: BeginTearingDown for /Game/Quiz_3/UEDPIE_0_Quiz_3_Level
+[2022.09.06-11.10.40:638][122]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.10.40:638][122]LogWorld: UWorld::CleanupWorld for Quiz_3_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-11.10.40:639][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-11.10.40:702][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.06-11.10.40:712][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-11.10.40:776][122]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.10.40:789][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-11.10.40:838][122]LogUObjectHash: Compacting FUObjectHashTables data took   9.05ms
+[2022.09.06-11.10.40:874][123]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.09.06-11.10.52:603][297]LogSlate: Window '색 선택 툴' being destroyed
+[2022.09.06-11.10.52:673][298]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.10.52:862][301]LogHttp: Warning: 000001F3C069BC40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEAFF9E90-406B-17A9-BDD8-93A92F409F43%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=2d75e193449db5567aca75a7f54e3142%7C5796ca4be38c439997aadf15c30971bf%7C82d39c2b-8b80-4332-81ec-c405e6d0bcbb&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.06-11.10.52:862][301]LogHttp: Warning: 000001F3C069BC40: request failed, libcurl error: 0 (No error)
+[2022.09.06-11.10.52:862][301]LogHttp: Warning: 000001F3C069BC40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1f31a78ff40 [can pipeline])
+[2022.09.06-11.10.52:862][301]LogHttp: Warning: 000001F3C069BC40: libcurl info message cache 1 (Re-using existing connection! (#13) with host datarouter.ol.epicgames.com)
+[2022.09.06-11.10.52:862][301]LogHttp: Warning: 000001F3C069BC40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.194.144.204) port 443 (#13))
+[2022.09.06-11.10.52:862][301]LogHttp: Warning: 000001F3C069BC40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.09.06-11.10.52:862][301]LogHttp: Warning: 000001F3C069BC40: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.09.06-11.10.52:862][301]LogHttp: Warning: 000001F3C069BC40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.09.06-11.10.52:862][301]LogHttp: Warning: 000001F3C069BC40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.09.06-11.10.52:862][301]LogHttp: Warning: 000001F3C069BC40: libcurl info message cache 7 (Closing connection 13)
+[2022.09.06-11.10.52:862][301]LogHttp: Warning: 000001F3C069BC40: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.09.06-11.10.52:901][302]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEAFF9E90-406B-17A9-BDD8-93A92F409F43%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=2d75e193449db5567aca75a7f54e3142%7C5796ca4be38c439997aadf15c30971bf%7C82d39c2b-8b80-4332-81ec-c405e6d0bcbb&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.06-11.10.54:892][356]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.09.06-11.10.54:933][356]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2022.09.06-11.10.54:935][356]LogPlayLevel: [PlayLevel] Compiling ColorBoxActor1_Blueprint before play...
+[2022.09.06-11.10.55:457][356]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.10.55:810][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_3/ColorBoxActor1_Blueprint" FILE="../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" SILENT=true
+[2022.09.06-11.10.55:895][356]LogSavePackage: Moving '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/ColorBoxActor1_Blueprint26C97D0142E6A3AAA86EA9B17829B3E0.tmp' to '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset'
+[2022.09.06-11.10.55:980][356]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2022.09.06-11.10.55:982][356]LogPlayLevel: PlayLevel: Blueprint regeneration took 1048 ms (1 blueprints)
+[2022.09.06-11.10.55:982][356]PIE: New page: PIE 세션: Quiz_3_Level (2022. 9. 7. 오전 5:10:55)
+[2022.09.06-11.10.55:982][356]LogPlayLevel: Creating play world package: /Game/Quiz_3/UEDPIE_0_Quiz_3_Level
+[2022.09.06-11.10.55:987][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004858s)
+[2022.09.06-11.10.55:989][356]LogAIModule: Creating AISystem for world Quiz_3_Level
+[2022.09.06-11.10.55:989][356]LogPlayLevel: PIE: World Init took: (0.001644s)
+[2022.09.06-11.10.55:989][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Quiz_3/Quiz_3_Level.Quiz_3_Level to /Game/Quiz_3/UEDPIE_0_Quiz_3_Level.Quiz_3_Level (0.006723s)
+[2022.09.06-11.10.56:055][356]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2022.09.06-11.10.56:055][356]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.06-11.10.56:055][356]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.06-11.10.56:055][356]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.06-11.10.56:055][356]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.06-11.10.56:055][356]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.06-11.10.56:055][356]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.06-11.10.56:055][356]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.06-11.10.56:055][356]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.06-11.10.56:056][356]LogAudio: Display: Using built-in audio occlusion.
+[2022.09.06-11.10.56:056][356]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.06-11.10.56:060][356]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.09.06-11.10.56:060][356]LogAudioMixer: Display: Name: 스피커(Synaptics SmartAudio HD)
+[2022.09.06-11.10.56:060][356]LogAudioMixer: Display: Is Default: Yes
+[2022.09.06-11.10.56:060][356]LogAudioMixer: Display: Sample Rate: 48000
+[2022.09.06-11.10.56:060][356]LogAudioMixer: Display: Channel Count Used: 2
+[2022.09.06-11.10.56:060][356]LogAudioMixer: Display: Device Channel Count: 2
+[2022.09.06-11.10.56:060][356]LogAudioMixer: Display: Channel Order:
+[2022.09.06-11.10.56:060][356]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.06-11.10.56:060][356]LogAudioMixer: Display: 1: FrontRight
+[2022.09.06-11.10.56:100][356]LogAudioMixer: Display: Using Audio Device 스피커(Synaptics SmartAudio HD)
+[2022.09.06-11.10.56:102][356]LogInit: FAudioDevice initialized.
+[2022.09.06-11.10.56:117][356]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.09.06-11.10.56:121][356]LogWorld: Bringing World /Game/Quiz_3/UEDPIE_0_Quiz_3_Level.Quiz_3_Level up for play (max tick rate 60) at 2022.09.06-20.10.56
+[2022.09.06-11.10.56:121][356]LogWorld: Bringing up level for play took: 0.001816
+[2022.09.06-11.10.56:122][356]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.09.06-11.10.56:126][356]PIE: /Game/Quiz_3/UEDPIE_0_Quiz_3_Level 에 대한 에디터에서 플레이 시작 시간: 1.823
+[2022.09.06-11.10.56:158][357]AssetCheck: New page: Asset Save: ColorBoxActor1_Blueprint
+[2022.09.06-11.10.56:158][357]LogContentValidation: Display: Blueprint /Game/Quiz_3/ColorBoxActor1_Blueprint.ColorBoxActor1_Blueprint 유효성 검사
+[2022.09.06-11.10.58:676][442]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.10.58:711][443]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.10.58:733][444]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.10.58:760][445]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.10.58:788][446]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.10.58:811][447]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.10.58:845][448]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.10.58:867][449]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.10.58:897][450]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.10.58:921][451]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.11.01:434][543]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.11.01:434][543]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.11.01:436][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-11.11.01:437][543]LogWorld: BeginTearingDown for /Game/Quiz_3/UEDPIE_0_Quiz_3_Level
+[2022.09.06-11.11.01:437][543]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.11.01:438][543]LogWorld: UWorld::CleanupWorld for Quiz_3_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-11.11.01:438][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-11.11.01:501][543]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.06-11.11.01:509][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-11.11.01:573][543]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.11.01:584][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-11.11.01:592][543]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2022.09.06-11.11.01:622][544]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.09.06-11.11.30:554][225]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Quiz_3/MyMaterial/NewMaterial.NewMaterial
+[2022.09.06-11.11.30:566][225]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2022.09.06-11.11.30:747][225]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2022.09.06-11.11.30:786][225]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2022.09.06-11.11.30:813][225]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2022.09.06-11.11.30:813][225]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2022.09.06-11.11.30:813][225]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2022.09.06-11.11.30:813][225]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.09.06-11.11.30:834][225]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.09.06-11.11.31:284][227]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_2.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_3.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_4.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_5.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_6.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_7.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.11.35:204][282]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2022.09.06-11.11.35:360][284]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2022.09.06-11.11.35:424][285]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.09.06-11.11.35:583][287]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.09.06-11.11.37:232][309]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.09.06-11.11.37:539][313]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2022.09.06-11.11.38:638][328]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.09.06-11.11.38:853][330]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2022.09.06-11.11.40:061][347]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2022.09.06-11.11.40:589][354]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.09.06-11.11.40:669][355]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.09.06-11.11.40:766][356]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.09.06-11.11.40:766][356]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2022.09.06-11.11.40:766][356]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.09.06-11.11.40:766][356]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2022.09.06-11.11.40:766][356]MaterialEditorStats: Texture samplers: 2/16
+[2022.09.06-11.12.01:353][751]LogEditorViewport: Clicking on Actor (LMB): ColorBoxActor1_Blueprint_C (ColorBoxActor1_Blueprint)
+[2022.09.06-11.13.00:680][185]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.09.06-11.13.40:644][185]LogSlate: Window '부모 클래스 선택' being destroyed
+[2022.09.06-11.15.11:489][819]LogUObjectHash: Compacting FUObjectHashTables data took  11.99ms
+[2022.09.06-11.15.11:602][819]LogSavePackage: Moving '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/Quiz_3_Level_Auto34D9C20784175A64CA3F854AFE64FDA20.tmp' to '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/Autosaves/Game/Quiz_3/Quiz_3_Level_Auto3.umap'
+[2022.09.06-11.15.11:609][819]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Quiz_3/Quiz_3_Level' took 0.243
+[2022.09.06-11.15.11:609][819]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.243
+[2022.09.06-11.19.00:108][508]LogEditorViewport: Clicking on Actor (LMB): ColorBoxActor1_Blueprint_C (ColorBoxActor1_Blueprint)
+[2022.09.06-11.19.34:254][295]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_2.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_3.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_4.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_5.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_6.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_7.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.20.10:214][895]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2022.09.06-11.20.10:243][895]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2022.09.06-11.20.10:243][895]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2022.09.06-11.20.10:243][895]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2022.09.06-11.20.10:244][895]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.09.06-11.20.14:108][937]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.09.06-11.20.14:285][939]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2022.09.06-11.20.14:298][939]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.09.06-11.20.14:597][942]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2022.09.06-11.20.15:062][946]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2022.09.06-11.20.15:952][956]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2022.09.06-11.20.16:325][960]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2022.09.06-11.20.17:245][970]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.09.06-11.20.17:513][973]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.09.06-11.20.18:974][989]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.09.06-11.20.19:483][994]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2022.09.06-11.20.20:112][  1]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.09.06-11.20.20:446][  5]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2022.09.06-11.20.20:740][  8]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2022.09.06-11.20.22:231][ 23]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2022.09.06-11.20.22:510][ 26]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.09.06-11.20.23:883][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ColorBoxActor7)
+[2022.09.06-11.20.24:436][ 60]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.09.06-11.20.24:436][ 60]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2022.09.06-11.20.24:436][ 60]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.09.06-11.20.24:436][ 60]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2022.09.06-11.20.24:436][ 60]MaterialEditorStats: Texture samplers: 2/16
+[2022.09.06-11.20.25:377][ 74]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Quiz_3/MyMaterial/NewMaterial_2.NewMaterial_2
+[2022.09.06-11.20.25:386][ 74]LogMaterial: Display: Missing cached shader map for material NewMaterial_2, compiling. 
+[2022.09.06-11.20.25:551][ 74]LogMaterial: Display: Missing cached shader map for material NewMaterial_2, compiling. 
+[2022.09.06-11.20.25:589][ 74]LogMaterial: Display: Missing cached shader map for material NewMaterial_2, compiling. 
+[2022.09.06-11.20.25:628][ 74]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2022.09.06-11.20.25:628][ 74]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2022.09.06-11.20.25:628][ 74]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2022.09.06-11.20.25:628][ 74]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.09.06-11.20.25:649][ 74]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.09.06-11.20.28:730][107]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2022.09.06-11.20.28:862][108]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2022.09.06-11.20.28:877][108]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2022.09.06-11.20.28:941][109]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.09.06-11.20.30:591][128]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.09.06-11.20.30:770][130]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.09.06-11.20.32:207][153]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.09.06-11.20.32:333][154]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2022.09.06-11.20.33:371][161]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2022.09.06-11.20.33:732][164]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2022.09.06-11.20.34:042][166]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2022.09.06-11.20.34:093][166]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.09.06-11.20.34:222][167]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.09.06-11.20.34:222][167]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2022.09.06-11.20.34:222][167]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.09.06-11.20.34:223][167]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2022.09.06-11.20.34:223][167]MaterialEditorStats: Texture samplers: 2/16
+[2022.09.06-11.20.34:585][172]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2022.09.06-11.20.35:483][182]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2022.09.06-11.20.35:597][183]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2022.09.06-11.20.35:835][186]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2022.09.06-11.20.37:645][206]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2022.09.06-11.20.38:643][216]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2022.09.06-11.20.38:793][219]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.09.06-11.20.39:011][223]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2022.09.06-11.20.39:536][233]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2022.09.06-11.20.40:846][251]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.09.06-11.20.41:832][259]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.09.06-11.20.42:588][266]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz3_Pawn.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level.umap" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level_BuiltData.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Widget.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.20.43:854][277]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.09.06-11.20.43:855][277]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2022.09.06-11.20.43:855][277]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.09.06-11.20.43:855][277]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2022.09.06-11.20.43:855][277]MaterialEditorStats: Texture samplers: 2/16
+[2022.09.06-11.21.39:176][ 89]LogSlate: Window '경로 선택' being destroyed
+[2022.09.06-11.24.19:032][ 46]LogSlate: Window '색 선택 툴' being destroyed
+[2022.09.06-11.24.36:192][232]LogSlate: Window '머티리얼 굽기 옵션' being destroyed
+[2022.09.06-11.25.56:372][939]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.25.58:963][995]BlueprintLog: New page: ColorBoxActor1_Blueprint 컴파일
+[2022.09.06-11.25.59:477][995]LogUObjectHash: Compacting FUObjectHashTables data took   8.22ms
+[2022.09.06-11.25.59:538][995]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.25.59:857][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_3/ColorBoxActor1_Blueprint" FILE="../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" SILENT=true
+[2022.09.06-11.25.59:905][995]LogSavePackage: Moving '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/ColorBoxActor1_Blueprint2ABD7F0540A67065895511A62A389DBB.tmp' to '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset'
+[2022.09.06-11.25.59:935][995]AssetCheck: New page: Asset Save: ColorBoxActor1_Blueprint
+[2022.09.06-11.25.59:935][995]LogContentValidation: Display: Blueprint /Game/Quiz_3/ColorBoxActor1_Blueprint.ColorBoxActor1_Blueprint 유효성 검사
+[2022.09.06-11.26.03:070][ 70]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.09.06-11.26.03:106][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.06-11.26.03:106][ 70]PIE: New page: PIE 세션: Quiz_3_Level (2022. 9. 7. 오전 5:26:03)
+[2022.09.06-11.26.03:108][ 70]LogPlayLevel: Creating play world package: /Game/Quiz_3/UEDPIE_0_Quiz_3_Level
+[2022.09.06-11.26.03:117][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009915s)
+[2022.09.06-11.26.03:119][ 70]LogAIModule: Creating AISystem for world Quiz_3_Level
+[2022.09.06-11.26.03:120][ 70]LogPlayLevel: PIE: World Init took: (0.002909s)
+[2022.09.06-11.26.03:120][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Quiz_3/Quiz_3_Level.Quiz_3_Level to /Game/Quiz_3/UEDPIE_0_Quiz_3_Level.Quiz_3_Level (0.013201s)
+[2022.09.06-11.26.03:207][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   9.33ms
+[2022.09.06-11.26.03:210][ 70]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.06-11.26.03:210][ 70]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.06-11.26.03:210][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.06-11.26.03:210][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.06-11.26.03:210][ 70]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.06-11.26.03:210][ 70]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.06-11.26.03:210][ 70]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.06-11.26.03:210][ 70]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.06-11.26.03:211][ 70]LogAudio: Display: Using built-in audio occlusion.
+[2022.09.06-11.26.03:211][ 70]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.06-11.26.03:218][ 70]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.09.06-11.26.03:218][ 70]LogAudioMixer: Display: Name: 스피커(Synaptics SmartAudio HD)
+[2022.09.06-11.26.03:218][ 70]LogAudioMixer: Display: Is Default: Yes
+[2022.09.06-11.26.03:218][ 70]LogAudioMixer: Display: Sample Rate: 48000
+[2022.09.06-11.26.03:218][ 70]LogAudioMixer: Display: Channel Count Used: 2
+[2022.09.06-11.26.03:218][ 70]LogAudioMixer: Display: Device Channel Count: 2
+[2022.09.06-11.26.03:218][ 70]LogAudioMixer: Display: Channel Order:
+[2022.09.06-11.26.03:218][ 70]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.06-11.26.03:218][ 70]LogAudioMixer: Display: 1: FrontRight
+[2022.09.06-11.26.03:297][ 70]LogAudioMixer: Display: Using Audio Device 스피커(Synaptics SmartAudio HD)
+[2022.09.06-11.26.03:305][ 70]LogInit: FAudioDevice initialized.
+[2022.09.06-11.26.03:328][ 70]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.09.06-11.26.03:334][ 70]LogWorld: Bringing World /Game/Quiz_3/UEDPIE_0_Quiz_3_Level.Quiz_3_Level up for play (max tick rate 60) at 2022.09.06-20.26.03
+[2022.09.06-11.26.03:334][ 70]LogWorld: Bringing up level for play took: 0.003231
+[2022.09.06-11.26.03:336][ 70]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.09.06-11.26.03:340][ 70]LogBlueprintUserMessages: [ColorBoxActor1_Blueprint] Hello
+[2022.09.06-11.26.03:342][ 70]PIE: /Game/Quiz_3/UEDPIE_0_Quiz_3_Level 에 대한 에디터에서 플레이 시작 시간: 1.039
+[2022.09.06-11.26.10:246][305]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.26.10:272][306]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.26.11:760][358]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.26.11:761][358]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.26.11:761][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-11.26.11:761][358]LogWorld: BeginTearingDown for /Game/Quiz_3/UEDPIE_0_Quiz_3_Level
+[2022.09.06-11.26.11:761][358]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.26.11:763][358]LogWorld: UWorld::CleanupWorld for Quiz_3_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-11.26.11:764][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-11.26.11:833][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.06-11.26.11:842][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-11.26.11:919][358]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.26.11:930][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-11.26.11:939][358]LogUObjectHash: Compacting FUObjectHashTables data took   8.09ms
+[2022.09.06-11.26.11:973][359]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.09.06-11.26.25:499][648]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.26.25:952][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_3/ColorBoxActor1_Blueprint" FILE="../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" SILENT=true
+[2022.09.06-11.26.26:033][648]LogSavePackage: Moving '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/ColorBoxActor1_Blueprint1A2F1DF34DF1D8B5E74EB3B9531D1F70.tmp' to '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset'
+[2022.09.06-11.26.26:061][648]AssetCheck: New page: Asset Save: ColorBoxActor1_Blueprint
+[2022.09.06-11.26.26:061][648]LogContentValidation: Display: Blueprint /Game/Quiz_3/ColorBoxActor1_Blueprint.ColorBoxActor1_Blueprint 유효성 검사
+[2022.09.06-11.26.27:198][674]BlueprintLog: New page: ColorBoxActor1_Blueprint 컴파일
+[2022.09.06-11.26.27:714][674]LogUObjectHash: Compacting FUObjectHashTables data took   7.51ms
+[2022.09.06-11.26.29:867][729]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.09.06-11.26.29:901][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.06-11.26.29:901][729]PIE: New page: PIE 세션: Quiz_3_Level (2022. 9. 7. 오전 5:26:29)
+[2022.09.06-11.26.29:901][729]LogPlayLevel: Creating play world package: /Game/Quiz_3/UEDPIE_0_Quiz_3_Level
+[2022.09.06-11.26.29:914][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013001s)
+[2022.09.06-11.26.29:918][729]LogAIModule: Creating AISystem for world Quiz_3_Level
+[2022.09.06-11.26.29:918][729]LogPlayLevel: PIE: World Init took: (0.003251s)
+[2022.09.06-11.26.29:918][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Quiz_3/Quiz_3_Level.Quiz_3_Level to /Game/Quiz_3/UEDPIE_0_Quiz_3_Level.Quiz_3_Level (0.016668s)
+[2022.09.06-11.26.30:036][729]LogUObjectHash: Compacting FUObjectHashTables data took  13.50ms
+[2022.09.06-11.26.30:039][729]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.06-11.26.30:039][729]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.06-11.26.30:039][729]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.06-11.26.30:039][729]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.06-11.26.30:039][729]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.06-11.26.30:039][729]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.06-11.26.30:039][729]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.06-11.26.30:040][729]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.06-11.26.30:042][729]LogAudio: Display: Using built-in audio occlusion.
+[2022.09.06-11.26.30:042][729]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.06-11.26.30:049][729]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.09.06-11.26.30:049][729]LogAudioMixer: Display: Name: 스피커(Synaptics SmartAudio HD)
+[2022.09.06-11.26.30:050][729]LogAudioMixer: Display: Is Default: Yes
+[2022.09.06-11.26.30:050][729]LogAudioMixer: Display: Sample Rate: 48000
+[2022.09.06-11.26.30:050][729]LogAudioMixer: Display: Channel Count Used: 2
+[2022.09.06-11.26.30:050][729]LogAudioMixer: Display: Device Channel Count: 2
+[2022.09.06-11.26.30:050][729]LogAudioMixer: Display: Channel Order:
+[2022.09.06-11.26.30:050][729]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.06-11.26.30:050][729]LogAudioMixer: Display: 1: FrontRight
+[2022.09.06-11.26.30:132][729]LogAudioMixer: Display: Using Audio Device 스피커(Synaptics SmartAudio HD)
+[2022.09.06-11.26.30:137][729]LogInit: FAudioDevice initialized.
+[2022.09.06-11.26.30:155][729]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.09.06-11.26.30:160][729]LogWorld: Bringing World /Game/Quiz_3/UEDPIE_0_Quiz_3_Level.Quiz_3_Level up for play (max tick rate 60) at 2022.09.06-20.26.30
+[2022.09.06-11.26.30:161][729]LogWorld: Bringing up level for play took: 0.003031
+[2022.09.06-11.26.30:162][729]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.09.06-11.26.30:167][729]LogBlueprintUserMessages: [ColorBoxActor1_Blueprint] 5555555555555555555
+[2022.09.06-11.26.30:168][729]PIE: /Game/Quiz_3/UEDPIE_0_Quiz_3_Level 에 대한 에디터에서 플레이 시작 시간: -0.135
+[2022.09.06-11.26.45:871][150]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.26.45:871][150]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.26.45:871][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-11.26.45:871][150]LogWorld: BeginTearingDown for /Game/Quiz_3/UEDPIE_0_Quiz_3_Level
+[2022.09.06-11.26.45:871][150]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.26.45:872][150]LogWorld: UWorld::CleanupWorld for Quiz_3_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-11.26.45:872][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-11.26.45:960][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.06-11.26.45:968][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-11.26.46:038][150]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.26.46:048][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-11.26.46:057][150]LogUObjectHash: Compacting FUObjectHashTables data took   7.53ms
+[2022.09.06-11.26.46:098][151]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.09.06-11.26.49:231][230]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.27.56:250][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.09.06-11.27.56:311][343]LogSavePackage: Moving '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/Quiz_3_Level_Auto4ADD55E0146311737A3EB43A4157FD985.tmp' to '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/Autosaves/Game/Quiz_3/Quiz_3_Level_Auto4.umap'
+[2022.09.06-11.27.56:314][343]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Quiz_3/Quiz_3_Level' took 0.174
+[2022.09.06-11.27.56:314][343]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.174
+[2022.09.06-11.27.56:314][343]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Quiz_3/ColorBoxActor1_Blueprint] ([1] browsable assets)...
+[2022.09.06-11.27.56:363][343]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Quiz_3/ColorBoxActor1_Blueprint.ColorBoxActor1_Blueprint]
+[2022.09.06-11.27.56:363][343]OBJ SavePackage: Finished generating thumbnails for package [/Game/Quiz_3/ColorBoxActor1_Blueprint]
+[2022.09.06-11.27.56:448][343]LogSavePackage: Moving '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/ColorBoxActor1_Blueprint_Auto43A8D5B12446494B565F48497A8778F04.tmp' to '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/Autosaves/Game/Quiz_3/ColorBoxActor1_Blueprint_Auto4.uasset'
+[2022.09.06-11.27.56:451][343]LogFileHelpers: Auto-saving content packages took 0.137
+[2022.09.06-11.29.01:107][998]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.29.01:551][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_3/ColorBoxActor1_Blueprint" FILE="../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" SILENT=true
+[2022.09.06-11.29.01:602][998]LogSavePackage: Moving '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/ColorBoxActor1_BlueprintEFAF38E943D9676571FDAEBE7DBE7D37.tmp' to '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset'
+[2022.09.06-11.29.01:634][998]AssetCheck: New page: Asset Save: ColorBoxActor1_Blueprint
+[2022.09.06-11.29.01:634][998]LogContentValidation: Display: Blueprint /Game/Quiz_3/ColorBoxActor1_Blueprint.ColorBoxActor1_Blueprint 유효성 검사
+[2022.09.06-11.29.02:826][ 28]BlueprintLog: New page: ColorBoxActor1_Blueprint 컴파일
+[2022.09.06-11.29.03:328][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2022.09.06-11.29.08:363][135]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.09.06-11.29.08:388][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.06-11.29.08:389][135]PIE: New page: PIE 세션: Quiz_3_Level (2022. 9. 7. 오전 5:29:08)
+[2022.09.06-11.29.08:389][135]LogPlayLevel: Creating play world package: /Game/Quiz_3/UEDPIE_0_Quiz_3_Level
+[2022.09.06-11.29.08:395][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005408s)
+[2022.09.06-11.29.08:397][135]LogAIModule: Creating AISystem for world Quiz_3_Level
+[2022.09.06-11.29.08:397][135]LogPlayLevel: PIE: World Init took: (0.002199s)
+[2022.09.06-11.29.08:397][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Quiz_3/Quiz_3_Level.Quiz_3_Level to /Game/Quiz_3/UEDPIE_0_Quiz_3_Level.Quiz_3_Level (0.007892s)
+[2022.09.06-11.29.08:496][135]LogUObjectHash: Compacting FUObjectHashTables data took  10.18ms
+[2022.09.06-11.29.08:499][135]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.06-11.29.08:499][135]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.06-11.29.08:499][135]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.06-11.29.08:499][135]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.06-11.29.08:499][135]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.06-11.29.08:499][135]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.06-11.29.08:499][135]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.06-11.29.08:499][135]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.06-11.29.08:500][135]LogAudio: Display: Using built-in audio occlusion.
+[2022.09.06-11.29.08:500][135]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.06-11.29.08:505][135]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.09.06-11.29.08:505][135]LogAudioMixer: Display: Name: 스피커(Synaptics SmartAudio HD)
+[2022.09.06-11.29.08:505][135]LogAudioMixer: Display: Is Default: Yes
+[2022.09.06-11.29.08:505][135]LogAudioMixer: Display: Sample Rate: 48000
+[2022.09.06-11.29.08:505][135]LogAudioMixer: Display: Channel Count Used: 2
+[2022.09.06-11.29.08:505][135]LogAudioMixer: Display: Device Channel Count: 2
+[2022.09.06-11.29.08:505][135]LogAudioMixer: Display: Channel Order:
+[2022.09.06-11.29.08:505][135]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.06-11.29.08:505][135]LogAudioMixer: Display: 1: FrontRight
+[2022.09.06-11.29.08:589][135]LogAudioMixer: Display: Using Audio Device 스피커(Synaptics SmartAudio HD)
+[2022.09.06-11.29.08:593][135]LogInit: FAudioDevice initialized.
+[2022.09.06-11.29.08:613][135]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.09.06-11.29.08:620][135]LogWorld: Bringing World /Game/Quiz_3/UEDPIE_0_Quiz_3_Level.Quiz_3_Level up for play (max tick rate 60) at 2022.09.06-20.29.08
+[2022.09.06-11.29.08:621][135]LogWorld: Bringing up level for play took: 0.003843
+[2022.09.06-11.29.08:621][135]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.09.06-11.29.08:627][135]PIE: /Game/Quiz_3/UEDPIE_0_Quiz_3_Level 에 대한 에디터에서 플레이 시작 시간: 0.325
+[2022.09.06-11.29.12:909][277]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.29.12:909][277]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.29.12:910][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-11.29.12:910][277]LogWorld: BeginTearingDown for /Game/Quiz_3/UEDPIE_0_Quiz_3_Level
+[2022.09.06-11.29.12:910][277]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.29.12:910][277]LogWorld: UWorld::CleanupWorld for Quiz_3_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-11.29.12:910][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-11.29.12:936][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.06-11.29.12:945][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-11.29.13:018][277]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.29.13:029][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-11.29.13:039][277]LogUObjectHash: Compacting FUObjectHashTables data took   7.70ms
+[2022.09.06-11.29.13:079][278]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.09.06-11.29.31:796][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ColorBoxActor2)
+[2022.09.06-11.29.59:361][255]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_2.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_3.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_4.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_5.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_6.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_7.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.30.08:424][395]LogEditorViewport: Clicking on Actor (LMB): ColorBoxActor1_Blueprint_C (ColorBoxActor1_Blueprint)
+[2022.09.06-11.30.20:943][620]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Engine/BasicShapes/M_Cube_M_M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960_D2A6100F46FB4D74ACBB95B123463AD7.M_M_Cube_M_M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960_D2A6100F46FB4D74ACBB95B123463AD7
+[2022.09.06-11.30.21:389][620]LogRenderer: Reallocating scene render targets to support 1068x696 Format 10 NumSamples 1 (Frame:1).
+[2022.09.06-11.31.07:703][767]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes/BasicShapeMaterial.uasset" "C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes/Cone.uasset" "C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes/Cube.uasset" "C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes/Cube1.uasset" "C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes/Cylinder.uasset" "C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes/M_Cube_M_M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960_D2A6100F46FB4D74ACBB95B123463AD7.uasset" "C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes/M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960.uasset" "C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes/Plane.uasset" "C:/Program Files/Epic Games/UE_4.24/Engine/Content/BasicShapes/Sphere.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.31.07:883][769]SourceControl: svn: warning: W155007: 'C:\Program Files\Epic Games\UE_4.24\Engine\Content\BasicShapes\BasicShapeMaterial.uasset' is not a working copy
+[2022.09.06-11.31.07:883][769]SourceControl: svn: warning: W155007: 'C:\Program Files\Epic Games\UE_4.24\Engine\Content\BasicShapes\Cone.uasset' is not a working copy
+[2022.09.06-11.31.07:883][769]SourceControl: svn: warning: W155007: 'C:\Program Files\Epic Games\UE_4.24\Engine\Content\BasicShapes\Cube.uasset' is not a working copy
+[2022.09.06-11.31.07:883][769]SourceControl: svn: warning: W155007: 'C:\Program Files\Epic Games\UE_4.24\Engine\Content\BasicShapes\Cube1.uasset' is not a working copy
+[2022.09.06-11.31.07:883][769]SourceControl: svn: warning: W155007: 'C:\Program Files\Epic Games\UE_4.24\Engine\Content\BasicShapes\Cylinder.uasset' is not a working copy
+[2022.09.06-11.31.07:883][769]SourceControl: svn: warning: W155007: 'C:\Program Files\Epic Games\UE_4.24\Engine\Content\BasicShapes\M_Cube_M_M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960_D2A6100F46FB4D74ACBB95B123463AD7.uasset' is not a working copy
+[2022.09.06-11.31.07:883][769]SourceControl: svn: warning: W155007: 'C:\Program Files\Epic Games\UE_4.24\Engine\Content\BasicShapes\M_Cube_NewMaterial_145B6A044BA97CBAF87A1AA0731A9960.uasset' is not a working copy
+[2022.09.06-11.31.07:883][769]SourceControl: svn: warning: W155007: 'C:\Program Files\Epic Games\UE_4.24\Engine\Content\BasicShapes\Plane.uasset' is not a working copy
+[2022.09.06-11.31.07:883][769]SourceControl: svn: warning: W155007: 'C:\Program Files\Epic Games\UE_4.24\Engine\Content\BasicShapes\Sphere.uasset' is not a working copy
+[2022.09.06-11.31.13:274][885]LogUObjectHash: Compacting FUObjectHashTables data took   8.18ms
+[2022.09.06-11.31.13:428][885]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.09.06-11.31.14:104][885]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.09.06-11.31.14:104][885]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.09.06-11.31.14:106][885]TextureStreamingBuild: Display: Compiling optional shaders took 0.751 seconds.
+[2022.09.06-11.31.14:294][885]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.09.06-11.31.14:398][885]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-11.31.14:399][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-11.33.20:964][662]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.34.01:168][586]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Cube_Blueprint.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/NewLevelSequence.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_0.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_1_Pawn.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.34.06:973][683]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz3_Pawn.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level.umap" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level_BuiltData.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Widget.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.36.33:205][401]LogSlate: Window '색 선택 툴' being destroyed
+[2022.09.06-11.37.44:180][311]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.09.06-11.37.44:208][311]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2022.09.06-11.37.44:209][311]LogPlayLevel: [PlayLevel] Compiling ColorBoxActor1_Blueprint before play...
+[2022.09.06-11.37.44:814][311]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.37.45:173][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_3/ColorBoxActor1_Blueprint" FILE="../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" SILENT=true
+[2022.09.06-11.37.45:265][311]LogSavePackage: Moving '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/ColorBoxActor1_Blueprint3752637547ACB61670CB178E3683C743.tmp' to '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset'
+[2022.09.06-11.37.45:354][311]LogUObjectHash: Compacting FUObjectHashTables data took   7.95ms
+[2022.09.06-11.37.45:355][311]LogPlayLevel: PlayLevel: Blueprint regeneration took 1147 ms (1 blueprints)
+[2022.09.06-11.37.45:356][311]PIE: New page: PIE 세션: Quiz_3_Level (2022. 9. 7. 오전 5:37:45)
+[2022.09.06-11.37.45:356][311]LogPlayLevel: Creating play world package: /Game/Quiz_3/UEDPIE_0_Quiz_3_Level
+[2022.09.06-11.37.45:361][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004903s)
+[2022.09.06-11.37.45:362][311]LogAIModule: Creating AISystem for world Quiz_3_Level
+[2022.09.06-11.37.45:362][311]LogPlayLevel: PIE: World Init took: (0.001660s)
+[2022.09.06-11.37.45:362][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Quiz_3/Quiz_3_Level.Quiz_3_Level to /Game/Quiz_3/UEDPIE_0_Quiz_3_Level.Quiz_3_Level (0.006762s)
+[2022.09.06-11.37.45:425][311]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2022.09.06-11.37.45:426][311]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.06-11.37.45:426][311]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.06-11.37.45:426][311]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.06-11.37.45:426][311]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.06-11.37.45:426][311]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.06-11.37.45:426][311]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.06-11.37.45:426][311]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.06-11.37.45:426][311]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.06-11.37.45:427][311]LogAudio: Display: Using built-in audio occlusion.
+[2022.09.06-11.37.45:427][311]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.06-11.37.45:432][311]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.09.06-11.37.45:432][311]LogAudioMixer: Display: Name: 스피커(Synaptics SmartAudio HD)
+[2022.09.06-11.37.45:432][311]LogAudioMixer: Display: Is Default: Yes
+[2022.09.06-11.37.45:432][311]LogAudioMixer: Display: Sample Rate: 48000
+[2022.09.06-11.37.45:432][311]LogAudioMixer: Display: Channel Count Used: 2
+[2022.09.06-11.37.45:432][311]LogAudioMixer: Display: Device Channel Count: 2
+[2022.09.06-11.37.45:432][311]LogAudioMixer: Display: Channel Order:
+[2022.09.06-11.37.45:432][311]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.06-11.37.45:432][311]LogAudioMixer: Display: 1: FrontRight
+[2022.09.06-11.37.45:484][311]LogAudioMixer: Display: Using Audio Device 스피커(Synaptics SmartAudio HD)
+[2022.09.06-11.37.45:486][311]LogInit: FAudioDevice initialized.
+[2022.09.06-11.37.45:497][311]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.09.06-11.37.45:501][311]LogWorld: Bringing World /Game/Quiz_3/UEDPIE_0_Quiz_3_Level.Quiz_3_Level up for play (max tick rate 0) at 2022.09.06-20.37.45
+[2022.09.06-11.37.45:501][311]LogWorld: Bringing up level for play took: 0.001833
+[2022.09.06-11.37.45:502][311]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.09.06-11.37.45:506][311]PIE: /Game/Quiz_3/UEDPIE_0_Quiz_3_Level 에 대한 에디터에서 플레이 시작 시간: 1.203
+[2022.09.06-11.37.45:568][312]AssetCheck: New page: Asset Save: ColorBoxActor1_Blueprint
+[2022.09.06-11.37.45:568][312]LogContentValidation: Display: Blueprint /Game/Quiz_3/ColorBoxActor1_Blueprint.ColorBoxActor1_Blueprint 유효성 검사
+[2022.09.06-11.38.42:492][862]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.38.42:492][862]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.38.42:492][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-11.38.42:492][862]LogWorld: BeginTearingDown for /Game/Quiz_3/UEDPIE_0_Quiz_3_Level
+[2022.09.06-11.38.42:492][862]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.38.42:493][862]LogWorld: UWorld::CleanupWorld for Quiz_3_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-11.38.42:493][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-11.38.42:584][862]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.06-11.38.42:593][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-11.38.42:669][862]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.38.42:679][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-11.38.42:688][862]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2022.09.06-11.38.42:734][863]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.09.06-11.38.56:736][220]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_2.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_3.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_4.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_5.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_6.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/MyMaterial/NewMaterial_7.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.39.06:889][763]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Config/DefaultEngine.ini" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.39.09:207][886]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/StarterContent/Blueprints/BP_LightStudio.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.40.14:742][850]LogSlate: Window '경로 선택' being destroyed
+[2022.09.06-11.40.19:610][144]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2022.09.06-11.40.19:610][144]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2022.09.06-11.40.27:226][144]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2022.09.06-11.40.34:137][144]LogSlate: Window '블루프린트 컴포넌트 추가' being destroyed
+[2022.09.06-11.40.37:402][239]LogUObjectHash: Compacting FUObjectHashTables data took   6.44ms
+[2022.09.06-11.40.37:464][239]LogSavePackage: Moving '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/Quiz_3_Level_Auto544AFEC664C3ED737390F4BAF8913C17B.tmp' to '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/Autosaves/Game/Quiz_3/Quiz_3_Level_Auto5.umap'
+[2022.09.06-11.40.37:467][239]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Quiz_3/Quiz_3_Level' took 0.137
+[2022.09.06-11.40.37:467][239]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.137
+[2022.09.06-11.41.10:433][228]LogSlate: Window '경로 선택' being destroyed
+[2022.09.06-11.41.11:399][257]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_2/Quiz_1_Pawn.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_2/Quiz_2_Level.umap" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_2/Quiz_2_Level_BuiltData.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_2/Quiz_2_Pawn.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_2/Quiz_2_Widget.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.41.13:780][327]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_1/Quiz_0.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_1/Quiz_1_Level.umap" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_1/Quiz_1_Pawn.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.41.14:921][355]LogAIModule: Creating AISystem for world Quiz_1_Level
+[2022.09.06-11.41.14:941][355]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Quiz_1/Quiz_1_Level.Quiz_1_Level
+[2022.09.06-11.41.15:068][355]LogUObjectHash: Compacting FUObjectHashTables data took  14.45ms
+[2022.09.06-11.41.17:478][355]LogSlate: Window '콘텐츠 저장' being destroyed
+[2022.09.06-11.41.19:894][412]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz3_Pawn.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level.umap" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level_BuiltData.uasset" "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Widget.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.41.32:812][776]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_0/Quiz_0.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.43.50:717][653]LogSlate: Window '색 선택 툴' being destroyed
+[2022.09.06-11.43.50:762][654]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.43.53:670][794]BlueprintLog: New page: ColorBoxActor1_Blueprint 컴파일
+[2022.09.06-11.43.54:174][794]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2022.09.06-11.43.54:226][794]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.43.54:556][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_3/ColorBoxActor1_Blueprint" FILE="../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" SILENT=true
+[2022.09.06-11.43.54:609][794]LogSavePackage: Moving '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/ColorBoxActor1_BlueprintD7F677B3449F23B73F70D795FB2719CD.tmp' to '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset'
+[2022.09.06-11.43.54:636][794]AssetCheck: New page: Asset Save: ColorBoxActor1_Blueprint
+[2022.09.06-11.43.54:636][794]LogContentValidation: Display: Blueprint /Game/Quiz_3/ColorBoxActor1_Blueprint.ColorBoxActor1_Blueprint 유효성 검사
+[2022.09.06-11.44.06:139][117]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level.umap" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.44.08:806][117]LogSlate: Window '애셋 체크아웃' being destroyed
+[2022.09.06-11.44.08:850][117]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level.umap" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.44.09:160][117]LogSourceControl: Attempting "svn lock "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level.umap" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.44.09:304][117]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level.umap" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.44.09:532][117]SourceControl: 'Quiz_3_Level.umap' locked by user 'jwsong'.
+[2022.09.06-11.44.09:735][117]LogUObjectHash: Compacting FUObjectHashTables data took  14.63ms
+[2022.09.06-11.44.09:829][117]LogSavePackage: Moving '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/Quiz_3_Level4B7B871146EDCE4CA2B1CA97B961F571.tmp' to '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level.umap'
+[2022.09.06-11.44.09:946][117]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level_BuiltData.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.44.12:246][117]LogSlate: Window '애셋 체크아웃' being destroyed
+[2022.09.06-11.44.12:298][117]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level_BuiltData.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.44.12:684][117]LogSourceControl: Attempting "svn lock "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level_BuiltData.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.44.12:846][117]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level_BuiltData.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.44.13:096][117]SourceControl: 'Quiz_3_Level_BuiltData.uasset' locked by user 'jwsong'.
+[2022.09.06-11.44.13:110][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_3/Quiz_3_Level_BuiltData" FILE="../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level_BuiltData.uasset" SILENT=true
+[2022.09.06-11.44.13:211][117]LogSavePackage: Moving '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/Quiz_3_Level_BuiltDataB1BD277F4AD6D4824552C5B0AFE96A98.tmp' to '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level_BuiltData.uasset'
+[2022.09.06-11.44.13:255][117]AssetCheck: New page: Asset Save: 애셋이 다수입니다.
+[2022.09.06-11.44.13:255][117]LogContentValidation: Display: World /Game/Quiz_3/Quiz_3_Level.Quiz_3_Level 유효성 검사
+[2022.09.06-11.44.13:255][117]LogContentValidation: Display: MapBuildDataRegistry /Game/Quiz_3/Quiz_3_Level_BuiltData.Quiz_3_Level_BuiltData 유효성 검사
+[2022.09.06-11.44.14:871][160]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.09.06-11.44.14:896][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.06-11.44.14:896][160]PIE: New page: PIE 세션: Quiz_3_Level (2022. 9. 7. 오전 5:44:14)
+[2022.09.06-11.44.14:896][160]LogPlayLevel: Creating play world package: /Game/Quiz_3/UEDPIE_0_Quiz_3_Level
+[2022.09.06-11.44.14:901][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004872s)
+[2022.09.06-11.44.14:902][160]LogAIModule: Creating AISystem for world Quiz_3_Level
+[2022.09.06-11.44.14:903][160]LogPlayLevel: PIE: World Init took: (0.001913s)
+[2022.09.06-11.44.14:903][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Quiz_3/Quiz_3_Level.Quiz_3_Level to /Game/Quiz_3/UEDPIE_0_Quiz_3_Level.Quiz_3_Level (0.007015s)
+[2022.09.06-11.44.14:993][160]LogUObjectHash: Compacting FUObjectHashTables data took  12.79ms
+[2022.09.06-11.44.14:997][160]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.06-11.44.14:997][160]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.06-11.44.14:997][160]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.06-11.44.14:997][160]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.06-11.44.14:997][160]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.06-11.44.14:997][160]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.06-11.44.14:997][160]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.06-11.44.14:997][160]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.06-11.44.14:998][160]LogAudio: Display: Using built-in audio occlusion.
+[2022.09.06-11.44.14:998][160]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.06-11.44.15:006][160]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.09.06-11.44.15:006][160]LogAudioMixer: Display: Name: 스피커(Synaptics SmartAudio HD)
+[2022.09.06-11.44.15:006][160]LogAudioMixer: Display: Is Default: Yes
+[2022.09.06-11.44.15:006][160]LogAudioMixer: Display: Sample Rate: 48000
+[2022.09.06-11.44.15:006][160]LogAudioMixer: Display: Channel Count Used: 2
+[2022.09.06-11.44.15:006][160]LogAudioMixer: Display: Device Channel Count: 2
+[2022.09.06-11.44.15:006][160]LogAudioMixer: Display: Channel Order:
+[2022.09.06-11.44.15:006][160]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.06-11.44.15:006][160]LogAudioMixer: Display: 1: FrontRight
+[2022.09.06-11.44.15:083][160]LogAudioMixer: Display: Using Audio Device 스피커(Synaptics SmartAudio HD)
+[2022.09.06-11.44.15:089][160]LogInit: FAudioDevice initialized.
+[2022.09.06-11.44.15:106][160]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.09.06-11.44.15:112][160]LogWorld: Bringing World /Game/Quiz_3/UEDPIE_0_Quiz_3_Level.Quiz_3_Level up for play (max tick rate 0) at 2022.09.06-20.44.15
+[2022.09.06-11.44.15:112][160]LogWorld: Bringing up level for play took: 0.003104
+[2022.09.06-11.44.15:114][160]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.09.06-11.44.15:120][160]PIE: /Game/Quiz_3/UEDPIE_0_Quiz_3_Level 에 대한 에디터에서 플레이 시작 시간: 0.817
+[2022.09.06-11.44.22:693][423]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.44.22:721][424]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.44.23:637][457]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.44.23:666][458]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.44.23:694][459]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.44.23:722][460]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.44.23:752][461]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.44.23:778][462]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.44.23:807][463]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.44.23:835][464]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.44.23:862][465]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.44.23:891][466]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.44.23:919][467]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.44.23:947][468]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.44.23:975][469]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.44.24:003][470]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.44.24:032][471]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.44.24:061][472]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.44.24:089][473]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.44.24:146][475]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.44.24:174][476]LogBlueprintUserMessages: [Quiz_1_Pawn_2] Hello
+[2022.09.06-11.44.25:940][539]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.44.25:940][539]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.44.25:940][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-11.44.25:940][539]LogWorld: BeginTearingDown for /Game/Quiz_3/UEDPIE_0_Quiz_3_Level
+[2022.09.06-11.44.25:940][539]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.44.25:941][539]LogWorld: UWorld::CleanupWorld for Quiz_3_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-11.44.25:944][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-11.44.26:012][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.06-11.44.26:019][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-11.44.26:087][539]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.44.26:096][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-11.44.26:105][539]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2022.09.06-11.44.26:139][540]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.09.06-11.44.41:306][682]LogSlate: Window '색 선택 툴' being destroyed
+[2022.09.06-11.44.41:377][683]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.45.19:483][606]BlueprintLog: New page: ColorBoxActor1_Blueprint 컴파일
+[2022.09.06-11.45.19:988][606]LogUObjectHash: Compacting FUObjectHashTables data took   7.79ms
+[2022.09.06-11.45.20:048][606]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.45.20:381][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_3/ColorBoxActor1_Blueprint" FILE="../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" SILENT=true
+[2022.09.06-11.45.20:430][606]LogSavePackage: Moving '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/ColorBoxActor1_Blueprint7DB0350542EAF3653824869EF691D834.tmp' to '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset'
+[2022.09.06-11.45.20:467][606]AssetCheck: New page: Asset Save: ColorBoxActor1_Blueprint
+[2022.09.06-11.45.20:467][606]LogContentValidation: Display: Blueprint /Game/Quiz_3/ColorBoxActor1_Blueprint.ColorBoxActor1_Blueprint 유효성 검사
+[2022.09.06-11.45.20:563][607]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/Quiz_3_Level.umap" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.45.26:312][750]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.09.06-11.45.26:349][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.06-11.45.26:349][750]PIE: New page: PIE 세션: Quiz_3_Level (2022. 9. 7. 오전 5:45:26)
+[2022.09.06-11.45.26:349][750]LogPlayLevel: Creating play world package: /Game/Quiz_3/UEDPIE_0_Quiz_3_Level
+[2022.09.06-11.45.26:361][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011619s)
+[2022.09.06-11.45.26:365][750]LogAIModule: Creating AISystem for world Quiz_3_Level
+[2022.09.06-11.45.26:367][750]LogPlayLevel: PIE: World Init took: (0.006366s)
+[2022.09.06-11.45.26:368][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Quiz_3/Quiz_3_Level.Quiz_3_Level to /Game/Quiz_3/UEDPIE_0_Quiz_3_Level.Quiz_3_Level (0.018596s)
+[2022.09.06-11.45.26:472][750]LogUObjectHash: Compacting FUObjectHashTables data took  11.51ms
+[2022.09.06-11.45.26:473][750]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.06-11.45.26:473][750]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.06-11.45.26:473][750]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.06-11.45.26:473][750]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.06-11.45.26:473][750]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.06-11.45.26:473][750]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.06-11.45.26:473][750]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.06-11.45.26:473][750]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.06-11.45.26:474][750]LogAudio: Display: Using built-in audio occlusion.
+[2022.09.06-11.45.26:474][750]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.06-11.45.26:480][750]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.09.06-11.45.26:480][750]LogAudioMixer: Display: Name: 스피커(Synaptics SmartAudio HD)
+[2022.09.06-11.45.26:480][750]LogAudioMixer: Display: Is Default: Yes
+[2022.09.06-11.45.26:480][750]LogAudioMixer: Display: Sample Rate: 48000
+[2022.09.06-11.45.26:480][750]LogAudioMixer: Display: Channel Count Used: 2
+[2022.09.06-11.45.26:480][750]LogAudioMixer: Display: Device Channel Count: 2
+[2022.09.06-11.45.26:480][750]LogAudioMixer: Display: Channel Order:
+[2022.09.06-11.45.26:480][750]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.06-11.45.26:480][750]LogAudioMixer: Display: 1: FrontRight
+[2022.09.06-11.45.26:550][750]LogAudioMixer: Display: Using Audio Device 스피커(Synaptics SmartAudio HD)
+[2022.09.06-11.45.26:554][750]LogInit: FAudioDevice initialized.
+[2022.09.06-11.45.26:572][750]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.09.06-11.45.26:578][750]LogWorld: Bringing World /Game/Quiz_3/UEDPIE_0_Quiz_3_Level.Quiz_3_Level up for play (max tick rate 0) at 2022.09.06-20.45.26
+[2022.09.06-11.45.26:578][750]LogWorld: Bringing up level for play took: 0.003676
+[2022.09.06-11.45.26:579][750]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.09.06-11.45.26:584][750]PIE: /Game/Quiz_3/UEDPIE_0_Quiz_3_Level 에 대한 에디터에서 플레이 시작 시간: 0.282
+[2022.09.06-11.45.30:785][888]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.45.30:785][888]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.45.30:786][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-11.45.30:786][888]LogWorld: BeginTearingDown for /Game/Quiz_3/UEDPIE_0_Quiz_3_Level
+[2022.09.06-11.45.30:786][888]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.45.30:786][888]LogWorld: UWorld::CleanupWorld for Quiz_3_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.06-11.45.30:786][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-11.45.30:861][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.06-11.45.30:869][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.06-11.45.30:935][888]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.09.06-11.45.30:943][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.06-11.45.30:952][888]LogUObjectHash: Compacting FUObjectHashTables data took   6.82ms
+[2022.09.06-11.45.30:985][889]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.09.06-11.45.52:351][610]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.45.55:778][708]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.09.06-11.45.55:810][708]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2022.09.06-11.45.55:812][708]LogPlayLevel: [PlayLevel] Compiling ColorBoxActor1_Blueprint before play...
+[2022.09.06-11.45.56:340][708]LogSourceControl: Attempting "svn status --show-updates --verbose --xml "C:/Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" --non-interactive --trust-server-cert --username jwsong --password ********"
+[2022.09.06-11.45.56:806][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Quiz_3/ColorBoxActor1_Blueprint" FILE="../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset" SILENT=true
+[2022.09.06-11.45.56:889][708]LogSavePackage: Moving '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Saved/ColorBoxActor1_BlueprintB54D52274F346705A06821A73B7DEC72.tmp' to '../../../../../../Users/we726/Documents/Unreal Projects/first_won/Content/Quiz_3/ColorBoxActor1_Blueprint.uasset'
+[2022.09.06-11.45.57:068][708]LogUObjectHash: Compacting FUObjectHashTables data took  14.70ms
+[2022.09.06-11.45.57:071][708]LogPlayLevel: PlayLevel: Blueprint regeneration took 1261 ms (1 blueprints)
+[2022.09.06-11.45.57:071][708]PIE: New page: PIE 세션: Quiz_3_Level (2022. 9. 7. 오전 5:45:57)
+[2022.09.06-11.45.57:071][708]LogPlayLevel: Creating play world package: /Game/Quiz_3/UEDPIE_0_Quiz_3_Level
+[2022.09.06-11.45.57:080][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009516s)
+[2022.09.06-11.45.57:083][708]LogAIModule: Creating AISystem for world Quiz_3_Level
+[2022.09.06-11.45.57:084][708]LogPlayLevel: PIE: World Init took: (0.003203s)
+[2022.09.06-11.45.57:084][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Quiz_3/Quiz_3_Level.Quiz_3_Level to /Game/Quiz_3/UEDPIE_0_Quiz_3_Level.Quiz_3_Level (0.013213s)
