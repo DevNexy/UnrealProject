@@ -40,4 +40,15 @@ Developed with Unreal Engine 4
     - 마우스 오른쪽 키(Right Mouse Key)를 누르면 모인 액터 분사 후 다시 Player 주변으로 구체 회전
 ---
 ## 3. 배그 비슷한 간단한 TPS 게임 구현
-[시연 동영상](https://youtu.be/J2F54ePCnwE)
+[시연 동영상](https://youtu.be/J2F54ePCnwE)   
+- <스크린샷>
+![image](https://user-images.githubusercontent.com/92451281/195362029-8c4c5d8a-3028-4941-8c8b-4b8aafeb1e7a.png)
+![image](https://user-images.githubusercontent.com/92451281/195362074-aafe6eeb-f4ee-4097-a8d1-c38b85579db4.png)
+- <개발>
+  - 블렌드 스페이스로 직접 에임 오프셋 구현 (애니메이션)
+  - widget 크로스헤어 구현
+  - widget 체력바 구현
+  - line trace 사용
+  - camera shake 사용
+  - 소켓을 이용하여 총 매기, 총 잡기 구현
+  - 체력바 기능 구현
